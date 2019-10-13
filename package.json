@@ -1,0 +1,22 @@
+{
+  "name": "awesome-persian-youtubers",
+  "version": "1.0.0",
+  "description": "Best Persian Youtubers.",
+  "main": "scripts/index.js",
+  "repository": "git@github.com:samaneyaghoobi/awesome-persian-youtubers.git",
+  "author": "Samane Yaghoobi <samaneyaghoobi1996@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "update": "node . > README.md",
+    "prettier": "prettier \"**/*.{js,md,json}\" --write"
+  },
+  "devDependencies": {
+    "json2md": "^1.6.5",
+    "lodash": "^4.17.15",
+    "prettier": "1.18.2"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "semi": true
+  }
+}
