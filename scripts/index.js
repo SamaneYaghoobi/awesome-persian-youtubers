@@ -1,22 +1,30 @@
-const json2md = require('json2md');
-const source = require('./source.json');
-const channel = require('../channel.json');
-const lodash = require('lodash');
+import json2md from 'json2md';
+import source from './source.json';
+// import channel from '../channel.json';
+import { chain } from 'lodash';
 
-const tableIndex = 2;
-const sourceJson = () => {
-  let head = source[tableIndex].table.headers;
-  let rows = lodash
-    .chain(channel)
+import conversation_centric from '../subjects/conversation-centric.json';
+import funny_comics from '../subjects/funny-comics.json';
+import game_stream from '../subjects/game-stream.json';
+import history_literature from '../subjects/history-literature.json';
+import news from '../subjects/news.json';
+import personal_diary_vlog from '../subjects/personal-diary-vlog.json';
+import programming from '../subjects/programming.json';
+import sport from '../subjects/sport.json';
+import technology_it from '../subjects/technology-it.json';
+
+const tableStart = 4;
+const tableFinish = 20;
+
+const makeTable = (obj, head) => {
+  var rows = chain(obj)
     .sortBy('channelName')
-    .sortBy('about')
-    .partition('about')
+    .partition('channelName')
     .flatten()
     .value();
 
   for (let i = 0; i < rows.length; i++) {
     rows[i] = {
-      [head.about]: rows[i].about,
       [head.channelName]: rows[i].channelName,
       [head.description]: rows[i].description,
       [head.website]: rows[i].website
@@ -28,9 +36,22 @@ const sourceJson = () => {
     };
   }
 
-  source[tableIndex].table.rows = rows;
-  source[tableIndex].table.headers = [...Object.values(head)];
+  return {
+    rows,
+    head
+  };
+};
 
+const sourceJson = () => {
+  while (tableStart <= tableFinish) {
+    let rawHead = source[tableStart].table.headers;
+    let result = makeTable(conversation_centric, rawHead);
+
+    source[tableStart].table.rows = result.rows;
+    source[tableStart].table.headers = [...Object.values(result.head)];
+
+    tableStart = tableStart + 2;
+  }
   return source;
 };
 const outputData = `<div dir="rtl">\n\n${json2md(
