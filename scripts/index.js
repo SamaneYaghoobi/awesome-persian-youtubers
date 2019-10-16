@@ -1,6 +1,5 @@
 import json2md from 'json2md';
 import source from './source.json';
-// import channel from '../channel.json';
 import { chain } from 'lodash';
 
 import conversation_centric from '../subjects/conversation-centric.json';
@@ -12,9 +11,24 @@ import personal_diary_vlog from '../subjects/personal-diary-vlog.json';
 import programming from '../subjects/programming.json';
 import sport from '../subjects/sport.json';
 import technology_it from '../subjects/technology-it.json';
+import arts from '../subjects/arts.json';
+import other from '../subjects/other.json';
 
 const tableStart = 4;
 const tableFinish = 20;
+const subjects = [
+  'تکنولوژی و حوزه آیتی',
+  'برنامه نویسی',
+  'استریم بازی و حوزه گیمرها',
+  'شخصی، خاطرات روزانه و ولاگ',
+  'مطالب فان و سرگرمی',
+  'ورزشی',
+  'خبری',
+  'تاریخ و ادبیات',
+  'خبری',
+  'هنری',
+  'سایر موضوعات'
+];
 
 const makeTable = (obj, head) => {
   var rows = chain(obj)
@@ -43,6 +57,7 @@ const makeTable = (obj, head) => {
 };
 
 const sourceJson = () => {
+  //ToDo: Remove while
   while (tableStart <= tableFinish) {
     let rawHead = source[tableStart].table.headers;
     let result = makeTable(conversation_centric, rawHead);
@@ -54,6 +69,7 @@ const sourceJson = () => {
   }
   return source;
 };
+
 const outputData = `<div dir="rtl">\n\n${json2md(
   sourceJson(),
   null

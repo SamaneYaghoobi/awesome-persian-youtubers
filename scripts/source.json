@@ -23,20 +23,6 @@
     }
   },
   {
-    "h2": "برنامه‌نویسی"
-  },
-  {
-    "table": {
-      "headers": {
-        "channelName": "نام کانال",
-        "description": "توضیحات",
-        "website": "![WebSite]",
-        "channel": "![Channel]"
-      },
-      "rows": []
-    }
-  },
-  {
     "h2": "مشارکت در توسعه"
   },
   {
