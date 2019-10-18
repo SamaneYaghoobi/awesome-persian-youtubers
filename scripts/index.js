@@ -1,34 +1,9 @@
-import json2md from 'json2md';
-import source from './source.json';
-import { chain } from 'lodash';
-
-import conversation_centric from '../subjects/conversation-centric.json';
-import funny_comics from '../subjects/funny-comics.json';
-import game_stream from '../subjects/game-stream.json';
-import history_literature from '../subjects/history-literature.json';
-import news from '../subjects/news.json';
-import personal_diary_vlog from '../subjects/personal-diary-vlog.json';
-import programming from '../subjects/programming.json';
-import sport from '../subjects/sport.json';
-import technology_it from '../subjects/technology-it.json';
-import arts from '../subjects/arts.json';
-import other from '../subjects/other.json';
-
-const tableStart = 4;
-const tableFinish = 20;
-const subjects = [
-  'تکنولوژی و حوزه آیتی',
-  'برنامه نویسی',
-  'استریم بازی و حوزه گیمرها',
-  'شخصی، خاطرات روزانه و ولاگ',
-  'مطالب فان و سرگرمی',
-  'ورزشی',
-  'خبری',
-  'تاریخ و ادبیات',
-  'خبری',
-  'هنری',
-  'سایر موضوعات'
-];
+const { chain } = require('lodash');
+const json2md = require('json2md');
+const fs = require('fs');
+const footer = require('./footer.json');
+const header = require('./header.json');
+const { SubjectsList } = require('../subjects');
 
 const makeTable = (obj, head) => {
   var rows = chain(obj)
@@ -56,23 +31,37 @@ const makeTable = (obj, head) => {
   };
 };
 
-const sourceJson = () => {
-  //ToDo: Remove while
-  while (tableStart <= tableFinish) {
-    let rawHead = source[tableStart].table.headers;
-    let result = makeTable(conversation_centric, rawHead);
+const sourceJson = (title, source) => {
+  let TABLE = [
+    {
+      h2: title
+    },
+    {
+      table: {
+        headers: {
+          channelName: 'نام کانال',
+          description: 'توضیحات',
+          website: '![WebSite]',
+          channel: '![Channel]'
+        },
+        rows: []
+      }
+    }
+  ];
 
-    source[tableStart].table.rows = result.rows;
-    source[tableStart].table.headers = [...Object.values(result.head)];
+  let result = makeTable(source, TABLE[1].table.headers);
 
-    tableStart = tableStart + 2;
-  }
-  return source;
+  TABLE[1].table.rows = result.rows;
+  TABLE[1].table.headers = [...Object.values(result.head)];
+
+  return TABLE;
 };
 
-const outputData = `<div dir="rtl">\n\n${json2md(
-  sourceJson(),
-  null
-)}\n</div>\n`;
+const outputData = `<div dir="rtl">\n\n${json2md(header, null)}\n`;
 
 process.stdout.write(outputData);
+SubjectsList.forEach(el => {
+  fs.appendFileSync('README.md', json2md(sourceJson(el[0], el[1]), null));
+});
+
+fs.appendFileSync('README.md', `\n${json2md(footer, null)}</div>\n`);
