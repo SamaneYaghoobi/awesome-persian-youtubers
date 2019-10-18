@@ -1,3 +1,14 @@
 [
-    
+    {
+        "channelName": "Mia plays",
+        "description": "میا ویدئوهایی از استریم بازی و کارهای فان و ولاگ از خودش میزاره",
+        "website": "",
+        "channel": "https://www.youtube.com/channel/UC3Uv6kBh55Jx0Ou0C7-Gudg"
+    },
+    {
+        "channelName": "Cl2ash",
+        "description": "اینجا سینا از استریم بازی‌هاش و مطالب فان ویدئو میزاره",
+        "website": "",
+        "channel": "https://www.youtube.com/channel/UCryFYajnVoMcdEbW1ju3dpg"
+    }
 ]

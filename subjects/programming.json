@@ -1,6 +1,6 @@
 [
     {
-        "channelName": "جادی تی‌وی",
+        "channelName": "Jadi TV",
         "description": "کانالی در رابطه با مسائل مرتبط با حوزه تکنولوژی، برنامه‌نویسی و اخبار مرتبط با این حوزه و خیلی چیزای دیگه :)",
         "website": "http://jadi.net",
         "channel": "https://www.youtube.com/channel/UCgKePkWtPuF36bJy0n2cEMQ"
@@ -16,5 +16,29 @@
         "description": "دورهمی آنلاین جامعه نرم‌افزاری - پخش زنده سه‌شنبه هر هفته ساعت ۱۹ و جمعه‌ هر هفته ساعت ۱۰",
         "website": "https://softwaretalks.ir",
         "channel": "https://www.youtube.com/channel/UCm4xezzuIlcEBFQwkAzm0CQ"
+    },
+    {
+        "channelName": "Amirhosseinab",
+        "description": "کانال امیرحسین که در مورد مهندسی نرم‌افزار، برنامه‌نویسی و مهارت‌های نرم حرف میزنه",
+        "website": "",
+        "channel": "https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ"
+    },
+    {
+        "channelName": "",
+        "description": "",
+        "website": "",
+        "channel": ""
+    },
+    {
+        "channelName": "",
+        "description": "",
+        "website": "",
+        "channel": ""
+    },
+    {
+        "channelName": "",
+        "description": "",
+        "website": "",
+        "channel": ""
     }
 ]
