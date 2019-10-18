@@ -41,8 +41,8 @@ const sourceJson = (title, source) => {
         headers: {
           channelName: 'نام کانال',
           description: 'توضیحات',
-          website: '![WebSite]',
-          channel: '![Channel]'
+          website: 'آدرس وب سایت',
+          channel: 'آدرس کانال'
         },
         rows: []
       }
