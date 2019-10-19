@@ -17,11 +17,11 @@ const makeTable = (obj, head) => {
       [head.channelName]: rows[i].channelName,
       [head.description]: rows[i].description,
       [head.website]: rows[i].website
-        ? `[![WebSite]](${rows[i].website})`
-        : '![Unknown]',
+        ? `[وب‌سایت](${rows[i].website})`
+        : '--',
       [head.channel]: rows[i].channel
-        ? `[![Channel]](${rows[i].channel})`
-        : '![Unknown]'
+        ? `[کانال](${rows[i].channel})`
+        : '--'
     };
   }
 

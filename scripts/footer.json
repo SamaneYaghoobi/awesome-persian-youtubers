@@ -18,15 +18,6 @@
         ]
     },
     {
-        "p": "[WebSite]: assets/icons/global.png 'وبسایت'"
-    },
-    {
-        "p": "[Channel]: assets/icons/utubeicon.png 'آدرس کانال'"
-    },
-    {
         "p": "[Title]: assets/icons/utubetitle.svg 'لیست بهترین کانال های یوتیوب فارسی'"
-    },
-    {
-        "p": "[Unknown]: assets/icons/square.svg 'نامشخص'"
     }
 ]
