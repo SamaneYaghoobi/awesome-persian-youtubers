@@ -1,3 +1,20 @@
 [
-    
+    {
+        "channelName": "Avang Music",
+        "description": "کانال رسمی آونگ موزیک که اینجا جدیدترین موزیک ویدئوهای منتشر شده توسط این کمپانی رو قرار میدن",
+        "website": "http://www.avang.com",
+        "channel": "https://www.youtube.com/user/avangmusic"
+    },
+    {
+        "channelName": "Radio Javan",
+        "description": "رادیو جوان با جدیدترین و جدیدترین ویدیوها و آهنگهای اختصاصی موسیقی ، منبع برتر موسیقی ایرانی و ایرانی است. اینجا مکانی برای انتشار آثار این کمپانی هستش",
+        "website": "https://radiojavan.com",
+        "channel": "https://www.youtube.com/user/radiojavan"
+    },
+    {
+        "channelName": "Sadaf Beauty",
+        "description": "اینجا صدف بیوتی ویدئوهایی در مورد آرایش کردن و چیزای فان دیگه میزاره.",
+        "website": "",
+        "channel": "https://www.youtube.com/channel/UCkCrYodUaJNbfS1cWhCyhGg"
+    }
 ]
