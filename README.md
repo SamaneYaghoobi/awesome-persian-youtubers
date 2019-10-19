@@ -11,7 +11,8 @@
 
  | نام کانال | توضیحات | آدرس وب سایت | 
  | --- | --- | --- | 
- | [Binosha](https://www.youtube.com/channel/UCNqT8Qk747G4alIBzPgRQiw) |  بینوشا از ترکیب دو کلمه ساخته شده بین (بن مضارع دیدن) و نیوشا (حرف اسم از شنیدن) ساخته شده، ممکنه یخورده سخت باشه ولی خب اولش فکر نمیکردیم لازم باشه این همه توضیحات به همه بدیم. ما تو بینوشا هدفمون ایجاد محتوای خوب و با کیفیت ویدیویی و صوتی فارسیه | -- | 
+ | [Binosha](https://www.youtube.com/channel/UCNqT8Qk747G4alIBzPgRQiw) |  بینوشا از ترکیب دو کلمه ساخته شده بین (بن مضارع دیدن) و نیوشا (حرف اسم از شنیدن) ساخته شده، ممکنه یخورده سخت باشه ولی خب اولش فکر نمیکردیم لازم باشه این همه توضیحات به همه بدیم. ما تو بینوشا هدفمون ایجاد محتوای خوب و با کیفیت ویدیویی و صوتی فارسیه | --
+[Nasser Ghanemzadeh](https://www.youtube.com/channel/UCiUJolxFti9kAlkh24EefEA) | ویدیو های ناصر غانم زاده درباره استارتاپ، کارآفرینی فناورانه و سرمایه گذاری جسورانه | [وب‌سایت](http://www.businessofsoftware.ir/) | 
 ## برنامه نویسی
 
  | نام کانال | توضیحات | آدرس وب سایت | 
@@ -20,8 +21,10 @@
 [Amirhosseinab](https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ) | کانال امیرحسین عبدالخالق که در مورد مهندسی نرم‌افزار، برنامه‌نویسی و مهارت‌های نرم حرف میزنه | --
 [Jadi TV](https://www.youtube.com/channel/UCgKePkWtPuF36bJy0n2cEMQ) | کانالی در رابطه با مسائل مرتبط با حوزه تکنولوژی، برنامه‌نویسی و اخبار مرتبط با این حوزه و خیلی چیزای دیگه :) | [وب‌سایت](http://jadi.net)
 [Parsclick](https://www.youtube.com/user/PersianComputers/featured) | شبکه پارس کلیک به عنوان سینمای برنامه نویسان هر چند وقت یکبار ویدئوهای آموزش برنامه نویسی و نکات و ترفندهای مرتبط با این حوزه رو تولید میکنه. | [وب‌سایت](https://parsclick.net)
+[Sahar TheTallWitch](https://www.youtube.com/user/saharpournasseh/featured) | آموزش برنامه نویسی با محوریت پلتفرم اندروید | [وب‌سایت](https://t.me/TheTallWitch)
 [SkillVid](https://www.youtube.com/channel/UC9aYF7SavRo_A9psgpEmw0A) | ویدیو مهارت هر هفته ویدیو هایی در حوزه وب , برنامه نویسی , ... منتشر میکنه | [وب‌سایت](https://skillvid.com)
-[SoftwareTalks](https://www.youtube.com/channel/UCm4xezzuIlcEBFQwkAzm0CQ) | دورهمی آنلاین جامعه نرم‌افزاری - پخش زنده سه‌شنبه هر هفته ساعت ۱۹ و جمعه‌ هر هفته ساعت ۱۰ | [وب‌سایت](https://softwaretalks.ir) | 
+[SoftwareTalks](https://www.youtube.com/channel/UCm4xezzuIlcEBFQwkAzm0CQ) | دورهمی آنلاین جامعه نرم‌افزاری - پخش زنده سه‌شنبه هر هفته ساعت ۱۹ و جمعه‌ هر هفته ساعت ۱۰ | [وب‌سایت](https://softwaretalks.ir)
+[negarjf](https://www.youtube.com/channel/UCbUgyn-Vzr1U12x4o_k2n2Q) | ویدیو های آموزشی با محوریت برنامه‌نویسی سمت کاربر | -- | 
 ## استریم بازی و حوزه گیمرها
 
  | نام کانال | توضیحات | آدرس وب سایت | 
@@ -56,7 +59,9 @@
 
  | نام کانال | توضیحات | آدرس وب سایت | 
  | --- | --- | --- | 
- | [Poshte Pardeh](https://www.youtube.com/channel/UCp6Q1clvzsk9STHfxHe1t5Q/about) | رنامه پشت پرده به دور از گرایش های سیاسی به پشت پرده اتفاق های روز میپردازه و اطلاعات پنهان رو در اختیار مخاطبان میزاره | -- | 
+ | [Poshte Pardeh](https://www.youtube.com/channel/UCp6Q1clvzsk9STHfxHe1t5Q/about) | رنامه پشت پرده به دور از گرایش های سیاسی به پشت پرده اتفاق های روز میپردازه و اطلاعات پنهان رو در اختیار مخاطبان میزاره | --
+[Zoomg](https://www.youtube.com/channel/UCc445FfWD4c6TkH1y-7KmAA) | سرگرمی زیر ذره‌بین | [وب‌سایت](https://zoomg.ir)
+[Zoomit](https://www.youtube.com/user/ZoomitChannel/featured) | دنیای فناوری زومیت | [وب‌سایت](https://www.zoomit.ir/) | 
 ## مصاحبه و گفتگو محور
 
  | نام کانال | توضیحات | آدرس وب سایت | 
@@ -67,12 +72,15 @@
 
  | نام کانال | توضیحات | آدرس وب سایت | 
  | --- | --- | --- | 
- | [Mostafa SHALCHI](https://www.youtube.com/channel/UCABVLZ3YJ4MLFpvrO_wqDuA) | من مصطفی شالچی مدرس و مترجم زبان فرانسه هستم و معتفدم بسیار از شیوه‌های معمول آموزش زبان ناکارآمد و نادرست هستند. هدف من این است که مسیر زبان‌آموزی را برای شما هموارتر کنم. | -- | 
+ | [Mostafa SHALCHI](https://www.youtube.com/channel/UCABVLZ3YJ4MLFpvrO_wqDuA) | من مصطفی شالچی مدرس و مترجم زبان فرانسه هستم و معتفدم بسیار از شیوه‌های معمول آموزش زبان ناکارآمد و نادرست هستند. هدف من این است که مسیر زبان‌آموزی را برای شما هموارتر کنم. | --
+[Paria Akhavass](https://www.youtube.com/channel/UCUmwCz1h-GTcrEX2kF8XBLw/featured) | آکادمی آموزش زبان انگلیسی پریا اخواص | --
+[کانون سخنوران](https://www.youtube.com/channel/UCkgo_W6UeMOR4-OBIeX0Oyg) | ویدیو های رایگان در زمینه سخنوری حرفه ای، ارتباطات کلامی و غیر کلامی. | [وب‌سایت](https://www.sokhanvaran.org/) | 
 ## هنری
 
  | نام کانال | توضیحات | آدرس وب سایت | 
  | --- | --- | --- | 
- | [Sadaf Beauty](https://www.youtube.com/channel/UCkCrYodUaJNbfS1cWhCyhGg) | اینجا صدف بیوتی ویدئوهایی در مورد آرایش کردن و چیزای فان دیگه میزاره. | -- | 
+ | [Emad Saedi](https://www.youtube.com/channel/UCwoGPU4A-VzKZRyMUlY4q3w/featured) | ویدیو هایی از اجرای موسیقی با پیانو و ... | --
+[Sadaf Beauty](https://www.youtube.com/channel/UCkCrYodUaJNbfS1cWhCyhGg) | اینجا صدف بیوتی ویدئوهایی در مورد آرایش کردن و چیزای فان دیگه میزاره. | -- | 
 ## سایر موضوعات
 
  | نام کانال | توضیحات | آدرس وب سایت | 
