@@ -14,7 +14,9 @@ const makeTable = (obj, head) => {
 
   for (let i = 0; i < rows.length; i++) {
     rows[i] = {
-      [head.channelName]: rows[i].channelName ? `[${rows[i].channelName}](${rows[i].channel})` : '--',
+      [head.channelName]: rows[i].channelName
+        ? `[${rows[i].channelName}](${rows[i].channel})`
+        : '--',
       [head.description]: rows[i].description,
       [head.website]: rows[i].website ? `[وب‌سایت](${rows[i].website})` : '--'
     };
