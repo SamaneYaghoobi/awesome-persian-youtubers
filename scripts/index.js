@@ -16,12 +16,8 @@ const makeTable = (obj, head) => {
     rows[i] = {
       [head.channelName]: rows[i].channelName,
       [head.description]: rows[i].description,
-      [head.website]: rows[i].website
-        ? `[وب‌سایت](${rows[i].website})`
-        : '--',
-      [head.channel]: rows[i].channel
-        ? `[کانال](${rows[i].channel})`
-        : '--'
+      [head.website]: rows[i].website ? `[وب‌سایت](${rows[i].website})` : '--',
+      [head.channel]: rows[i].channel ? `[کانال](${rows[i].channel})` : '--'
     };
   }
 
