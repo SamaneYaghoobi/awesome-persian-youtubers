@@ -59,7 +59,7 @@
 
  | نام کانال | توضیحات | آدرس وب سایت | 
  | --- | --- | --- | 
- | [Poshte Pardeh](https://www.youtube.com/channel/UCp6Q1clvzsk9STHfxHe1t5Q/about) | رنامه پشت پرده به دور از گرایش های سیاسی به پشت پرده اتفاق های روز میپردازه و اطلاعات پنهان رو در اختیار مخاطبان میزاره | --
+ | [Poshte Pardeh](https://www.youtube.com/channel/UCp6Q1clvzsk9STHfxHe1t5Q/about) | برنامه پشت پرده به دور از گرایش های سیاسی به پشت پرده اتفاق های روز میپردازه و اطلاعات پنهان رو در اختیار مخاطبان میزاره | --
 [Zoomg](https://www.youtube.com/channel/UCc445FfWD4c6TkH1y-7KmAA) | سرگرمی زیر ذره‌بین | [وب‌سایت](https://zoomg.ir)
 [Zoomit](https://www.youtube.com/user/ZoomitChannel/featured) | دنیای فناوری زومیت | [وب‌سایت](https://www.zoomit.ir/) | 
 ## مصاحبه و گفتگو محور
