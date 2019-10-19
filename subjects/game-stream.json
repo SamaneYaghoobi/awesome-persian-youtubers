@@ -1,38 +1,38 @@
 [
-    {
-        "channelName": "Mia plays",
-        "description": "میا ویدئوهایی از استریم بازی و کارهای فان و ولاگ از خودش میزاره",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UC3Uv6kBh55Jx0Ou0C7-Gudg"
-    },
-    {
-        "channelName": "Cl2ash",
-        "description": "اینجا سینا از استریم بازی‌هاش و مطالب فان ویدئو میزاره",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCryFYajnVoMcdEbW1ju3dpg"
-    },
-    {
-        "channelName": "Aria Keoxer",
-        "description": "اینجا اریا راجبه بازی‌های جدید ، گیم‌پلی‌ها ، لتس پلی‌ها ، واکترو و هرچیز دیگه‌ای که با بازی سرو کله داشته باشه ویدئو می‌سازم",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCDvxToLVx545jFXCgThOtTw"
-    },
-    {
-        "channelName": "Toxicgirlow",
-        "description": "اینجا تاکسیک گرل بازی استریم میکنه و ویدئوهای فان تو حوزه های مختلف میزاره",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCrUgnxSG_lK1ugbwl6431jw"
-    },
-    {
-        "channelName": "FarshadSilent",
-        "description": "اینجا فرشاد سایلنت بازی استریم میکنه و ویدئوهای فان تو حوزه های مختلف میزاره",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCYnsnFMvYFhYaDNFNQbGGHQ"
-    },
-    {
-        "channelName": "kewDiePie P",
-        "description": "اینجا کیودی پای بازی استریم میکنه و ویدئوهای فان تو حوزه های مختلف میزاره",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCEqm7ZP24EHX7nFlerSDQFg"
-    }
+  {
+    "channelName": "Mia plays",
+    "description": "میا ویدئوهایی از استریم بازی و کارهای فان و ولاگ از خودش میزاره",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UC3Uv6kBh55Jx0Ou0C7-Gudg"
+  },
+  {
+    "channelName": "Cl2ash",
+    "description": "اینجا سینا از استریم بازی‌هاش و مطالب فان ویدئو میزاره",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCryFYajnVoMcdEbW1ju3dpg"
+  },
+  {
+    "channelName": "Aria Keoxer",
+    "description": "اینجا اریا راجبه بازی‌های جدید ، گیم‌پلی‌ها ، لتس پلی‌ها ، واکترو و هرچیز دیگه‌ای که با بازی سرو کله داشته باشه ویدئو می‌سازم",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCDvxToLVx545jFXCgThOtTw"
+  },
+  {
+    "channelName": "Toxicgirlow",
+    "description": "اینجا تاکسیک گرل بازی استریم میکنه و ویدئوهای فان تو حوزه های مختلف میزاره",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCrUgnxSG_lK1ugbwl6431jw"
+  },
+  {
+    "channelName": "FarshadSilent",
+    "description": "اینجا فرشاد سایلنت بازی استریم میکنه و ویدئوهای فان تو حوزه های مختلف میزاره",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCYnsnFMvYFhYaDNFNQbGGHQ"
+  },
+  {
+    "channelName": "kewDiePie P",
+    "description": "اینجا کیودی پای بازی استریم میکنه و ویدئوهای فان تو حوزه های مختلف میزاره",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCEqm7ZP24EHX7nFlerSDQFg"
+  }
 ]
