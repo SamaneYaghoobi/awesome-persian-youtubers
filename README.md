@@ -18,6 +18,7 @@
  | --- | --- | --- | --- | 
  | Amirhosseinab | کانال امیرحسین عبدالخالق که در مورد مهندسی نرم‌افزار، برنامه‌نویسی و مهارت‌های نرم حرف میزنه | -- | [کانال](https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ)
 Jadi TV | کانالی در رابطه با مسائل مرتبط با حوزه تکنولوژی، برنامه‌نویسی و اخبار مرتبط با این حوزه و خیلی چیزای دیگه :) | [وب‌سایت](http://jadi.net) | [کانال](https://www.youtube.com/channel/UCgKePkWtPuF36bJy0n2cEMQ)
+Parsclick | شبکه پارس کلیک به عنوان سینمای برنامه نویسان هر چند وقت یکبار ویدئوهای آموزش برنامه نویسی و نکات و ترفندهای مرتبط با این حوزه رو تولید میکنه. | [وب‌سایت](https://parsclick.net) | [کانال](https://www.youtube.com/user/PersianComputers/featured)
 SkillVid | ویدیو مهارت هر هفته ویدیو هایی در حوزه وب , برنامه نویسی , ... منتشر میکنه | [وب‌سایت](https://skillvid.com) | [کانال](https://www.youtube.com/channel/UC9aYF7SavRo_A9psgpEmw0A)
 SoftwareTalks | دورهمی آنلاین جامعه نرم‌افزاری - پخش زنده سه‌شنبه هر هفته ساعت ۱۹ و جمعه‌ هر هفته ساعت ۱۰ | [وب‌سایت](https://softwaretalks.ir) | [کانال](https://www.youtube.com/channel/UCm4xezzuIlcEBFQwkAzm0CQ) | 
 ## استریم بازی و حوزه گیمرها
