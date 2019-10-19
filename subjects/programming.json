@@ -22,5 +22,11 @@
     "description": "کانال امیرحسین عبدالخالق که در مورد مهندسی نرم‌افزار، برنامه‌نویسی و مهارت‌های نرم حرف میزنه",
     "website": "",
     "channel": "https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ"
+  },
+  {
+    "channelName": "Parsclick",
+    "description": "شبکه پارس کلیک به عنوان سینمای برنامه نویسان هر چند وقت یکبار ویدئوهای آموزش برنامه نویسی و نکات و ترفندهای مرتبط با این حوزه رو تولید میکنه.",
+    "website": "https://parsclick.net",
+    "channel": "https://www.youtube.com/user/PersianComputers/featured"
   }
 ]
