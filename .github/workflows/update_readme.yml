@@ -3,7 +3,7 @@ name: Update README.md
 on:
   push:
     branches:
-      - develop
+      - master
 
 jobs:
   build:
