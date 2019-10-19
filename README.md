@@ -19,8 +19,7 @@
  | Amirhosseinab | کانال امیرحسین که در مورد مهندسی نرم‌افزار، برنامه‌نویسی و مهارت‌های نرم حرف میزنه | ![Unknown] | [![Channel]](https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ)
 Jadi TV | کانالی در رابطه با مسائل مرتبط با حوزه تکنولوژی، برنامه‌نویسی و اخبار مرتبط با این حوزه و خیلی چیزای دیگه :) | [![WebSite]](http://jadi.net) | [![Channel]](https://www.youtube.com/channel/UCgKePkWtPuF36bJy0n2cEMQ)
 SkillVid | ویدیو مهارت هر هفته ویدیو هایی در حوزه وب , برنامه نویسی , ... منتشر میکنه | [![WebSite]](https://skillvid.com) | [![Channel]](https://www.youtube.com/channel/UC9aYF7SavRo_A9psgpEmw0A)
-SoftwareTalks | دورهمی آنلاین جامعه نرم‌افزاری - پخش زنده سه‌شنبه هر هفته ساعت ۱۹ و جمعه‌ هر هفته ساعت ۱۰ | [![WebSite]](https://softwaretalks.ir) | [![Channel]](https://www.youtube.com/channel/UCm4xezzuIlcEBFQwkAzm0CQ)
- |  | ![Unknown] | ![Unknown] | 
+SoftwareTalks | دورهمی آنلاین جامعه نرم‌افزاری - پخش زنده سه‌شنبه هر هفته ساعت ۱۹ و جمعه‌ هر هفته ساعت ۱۰ | [![WebSite]](https://softwaretalks.ir) | [![Channel]](https://www.youtube.com/channel/UCm4xezzuIlcEBFQwkAzm0CQ) | 
 ## استریم بازی و حوزه گیمرها
 
  | نام کانال | توضیحات | آدرس وب سایت | آدرس کانال | 
