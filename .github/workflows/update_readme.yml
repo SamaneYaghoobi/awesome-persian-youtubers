@@ -3,7 +3,7 @@ name: Update README.md
 on:
   push:
     branches:
-      - master
+      - develop
 
 jobs:
   build:
@@ -28,12 +28,11 @@ jobs:
           yarn install
           yarn run prettier
           yarn run update
-          yarn run prettier
         env:
           CI: true
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v1.4.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COMMIT_MESSAGE: Update README.md
-          PULL_REQUEST_TITLE: Add updated readme file
+          COMMIT_MESSAGE: 'Add some channels :pencil:'
+          PULL_REQUEST_TITLE: Add some channels

@@ -21,7 +21,7 @@ const SubjectsList = [
   ['مصاحبه و گفتگو محور', conversation_centric],
   ['تاریخ و ادبیات', history_literature],
   ['هنری', arts],
-  ['سایر موضوعات', other],
+  ['سایر موضوعات', other]
 ];
 
 module.exports.SubjectsList = SubjectsList;

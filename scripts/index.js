@@ -16,12 +16,8 @@ const makeTable = (obj, head) => {
     rows[i] = {
       [head.channelName]: rows[i].channelName,
       [head.description]: rows[i].description,
-      [head.website]: rows[i].website
-        ? `[![WebSite]](${rows[i].website})`
-        : '![Unknown]',
-      [head.channel]: rows[i].channel
-        ? `[![Channel]](${rows[i].channel})`
-        : '![Unknown]'
+      [head.website]: rows[i].website ? `[وب‌سایت](${rows[i].website})` : '--',
+      [head.channel]: rows[i].channel ? `[کانال](${rows[i].channel})` : '--'
     };
   }
 
@@ -41,8 +37,8 @@ const sourceJson = (title, source) => {
         headers: {
           channelName: 'نام کانال',
           description: 'توضیحات',
-          website: '![WebSite]',
-          channel: '![Channel]'
+          website: 'آدرس وب سایت',
+          channel: 'آدرس کانال'
         },
         rows: []
       }
