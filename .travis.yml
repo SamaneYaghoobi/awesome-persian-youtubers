@@ -10,8 +10,8 @@ env:
   - README="README.md"
   - GHREPOURL="github.com/${USERNAME}/${REPONAME}.git"
   - TRAVIS_SECURE_TOKEN_NAME="travis"
-  - secure: MKJF3c5HkAgnJt171x2DgRuH14NCvnRyZIf09Uc9q5vsXRAsQWRXRmdXeLjU8mH/mjNd/japeAkC/uMuywr4TG6oaaA5R9TOg37dKpI48b1M6aXMATx2RyXa24wQxG19szKVknCSrUp8mvFj5ASkabLUQM0ubCWy1tTvaxjj9BtXYmPc9f5H6TISFsJ8rAhAkyTDo5PKAmFc2YFP+HRvULk7Mvf0e9dg+k5Xdx/1Y05UZeG6dXq9FBKlrONNwpPmdQ1V3Y00LyqabytyOyPIHhSs9AxynAwFABlcJAvmb9WotzIwj7oVn+KTqCGi2aqPgHMdavQwIK1dNTkFlg5og7TDbaMq+lCIWOPMIdxt+ouNlg6JPB5NQfviH3pwU/dTRm2GCDBY0BRKHb7tznu2svFjGRj5IzQIfxTcEC7zox++E7W9KcCPo3k0nXZ/Zad1iv1eVzH+5SQJnLA2MJL01Xxgetg7FAlQZ3evxxujoeXcncTfu2/RkPW3fK+3dM1/ILRFBssheqCEFs2q3bzm7tWXTp9idGZbJoKk8JiHKbIGGU3RXNRbuw6gjjAZEcamhpKbLOeMLtekL+fypt+jN2RgetjDhmt5QuzgA/l0ZA2N1uGxvgz6P705Ozb1dpPXAgoSKkJwfrlZYa2orkQV0hxG55XMrmKk+dMbOTvzoWg=
-"--before_install":
+  - secure: eeH6yeH7jdzcCbQQFFRXOZQiOisjZpBd9TIf7+NuXrxQQ9qbHKdLP2z5mY57a1u7ZSG5FhVd/+Q6+v14gN5Ho3pHo3jPL6kBKICWUkWzW8AII2SU94irD3l8KWzf3ajzRQ6zmRIUwlB4rGDslEPR0omtP8LKTuJczGNsN5Cy2f7aGwEa0T6CTH+PBFvp7Pv8Yzk4sCNs0lx15KdpO2Vfq8PWtj17Bxp0JBK21mUwxHYcg6PB4rSOIG5vuZgqnyrjSZeZ+xr6zfjf6gWexk+0t1L2WfZ6W9XvY/yCvjIUO5mxmfZ01AdaBRv41Od80iN8cx5KQgzvoIVir1AgpmROOIpFu8j/XhWPv5Br2sYwiyptYFkZTbvtKejBim9jRNBJptt/gX76P0jZIZ38bASizNHDzeamxtDS7E9cNw32GOC7ojyQJsA1N1HXmTrwdLPd+0iq6S5FK2m2bwKv9l6EToWRC9TDu5AdvuQHw2lzdarDvEnsfjrLv2rOSjK2D8Vur3bS4QNJYObdxaDw2nu6op3dnPCIor3M+7Mu3D7iyxT5fUh9nav+vbOwy5begCnSgcMz8wei7svYgOEQUvUrOv85shZjnZKhy7wcVGOXdFmn0g+FNDKNlLCiIHSPawa6lmOiXOWiHaZGUhT9aGIH8DtemSOxATo3A+BOoW+3NI4=
+--before_install":
 - curl -o- -L https://yarnpkg.com/install.sh | bash
 - export PATH="$HOME/.yarn/bin:$PATH"
 install:
@@ -20,6 +20,8 @@ script:
 - yarn update
 - yarn prettier
 after_success:
+- git config credential.helper "store --file=.git/credentials"
+- echo "https://${GH_TOKEN}:@github.com" > .git/credentials
 - git clone git://${GHREPOURL}
 - mv -f ${README} ${REPONAME}
 - cd ${REPONAME}
@@ -29,4 +31,5 @@ after_success:
 - git config user.name ${USERNAME}
 - git add ${README}
 - git commit -m "Travis push to repo"
-- git push "https://${GH_TOKEN}@${GHREPOURL}" master
+- git remote add origin master https://${GH_TOKEN}@${GHREPOURL}
+- git push --quiet --set-upstream origin master
