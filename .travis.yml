@@ -2,6 +2,15 @@ dist: trusty
 language: node_js
 node_js:
   - "8"
+env:
+  global:
+  - USERNAME="numb95"
+  - EMAIL="amir@goodarzi.net"
+  - REPONAME="awesome-persian-youtubers"
+  - README="README.md"
+  - GHREPOURL="github.com/${USERNAME}/${REPONAME}.git"
+  - TRAVIS_SECURE_TOKEN_NAME="travis"
+  - secure: "DRUcUvGgs5vOObUE4asrmzNAIUyCnPUemwHm259VXL4/uClfhLBqdeCYiRzZvilnJz7I0YDoSOFQvHLiDOR9c9oK9d23BmqTM5Ti8N8SlJdryoMwLRwIg0InIWdq3QaLtTSdxHiqnhy0LFofCipq4lMyYMH2/yqb1+sBTAl0fKYmvymG6THzaJp32EvAe/U9Dk+SsaxAHEUNbp28NNfRvnQH1IxNKacSEDqXai+VfbGLo47H5tbPpf5bF+wB+jxYMJfAdfIWO8N8IWpoe0zugJg6PRtSRIshIp1qYN3FUmvHEymXVShc8kW7QK9EE1OoDaz+ZsxRBytnI48dFY8QEtZkC5VfZqXiQEQim6ecXzGhMI9k2HMs7U52z+MoVgzdG5+Scl3eEgHabjGe5IuXqi30enQOC2tH4YUnm3Bzj5W3ulXxVjJRl58E/aOXkHPBjvjC7T63oLb3PZgmg5fPCdNs0VT5T2wjeVZd6gxJSEGlBrIMeFALZ4U6LP8pLlAWtmsMQCGbUJ4MhEQ2ZR+RZgRLqGdCrn3sdMNsavDyxBbJi5WMLWwmwWUKRDZpQ2SndT+a3RyNhKfuZOfpPH9IjhGuaich26nUKpLTqFcNw7xQUoa4yPD0BLM8skXuU/+7n9H61s8ZfYLBnY+0iXWcn7GMNDhhLQ6bxW9Rn2aobnI="
 before_install:
   - curl -o- -L https://yarnpkg.com/install.sh | bash
   - export PATH="$HOME/.yarn/bin:$PATH"
@@ -12,3 +21,14 @@ install:
 script:
     - yarn update
     - yarn prettier
+after_success:
+  - MESSAGE=$(git log --format=%B -n 1 $TRAVIS_COMMIT)
+  - git clone git://${GHREPOURL}
+  - mv -f ${README} ${REPONAME}
+  - cd ${REPONAME}
+  - git remote
+  - git config user.email ${EMAIL}
+  - git config user.name ${USERNAME}
+  - git add ${README}
+  - git commit -m ${MESSAGE}
+  - git push "https://${TRAVIS_SECURE_TOKEN_NAME}@${GHREPOURL}" master > /dev/null 2>&1
