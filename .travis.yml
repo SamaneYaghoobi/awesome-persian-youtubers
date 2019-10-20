@@ -1,7 +1,7 @@
 dist: trusty
 language: node_js
 node_js:
-  - "8"
+- '8'
 env:
   global:
   - USERNAME="numb95"
@@ -10,25 +10,23 @@ env:
   - README="README.md"
   - GHREPOURL="github.com/${USERNAME}/${REPONAME}.git"
   - TRAVIS_SECURE_TOKEN_NAME="travis"
-  - secure: "DRUcUvGgs5vOObUE4asrmzNAIUyCnPUemwHm259VXL4/uClfhLBqdeCYiRzZvilnJz7I0YDoSOFQvHLiDOR9c9oK9d23BmqTM5Ti8N8SlJdryoMwLRwIg0InIWdq3QaLtTSdxHiqnhy0LFofCipq4lMyYMH2/yqb1+sBTAl0fKYmvymG6THzaJp32EvAe/U9Dk+SsaxAHEUNbp28NNfRvnQH1IxNKacSEDqXai+VfbGLo47H5tbPpf5bF+wB+jxYMJfAdfIWO8N8IWpoe0zugJg6PRtSRIshIp1qYN3FUmvHEymXVShc8kW7QK9EE1OoDaz+ZsxRBytnI48dFY8QEtZkC5VfZqXiQEQim6ecXzGhMI9k2HMs7U52z+MoVgzdG5+Scl3eEgHabjGe5IuXqi30enQOC2tH4YUnm3Bzj5W3ulXxVjJRl58E/aOXkHPBjvjC7T63oLb3PZgmg5fPCdNs0VT5T2wjeVZd6gxJSEGlBrIMeFALZ4U6LP8pLlAWtmsMQCGbUJ4MhEQ2ZR+RZgRLqGdCrn3sdMNsavDyxBbJi5WMLWwmwWUKRDZpQ2SndT+a3RyNhKfuZOfpPH9IjhGuaich26nUKpLTqFcNw7xQUoa4yPD0BLM8skXuU/+7n9H61s8ZfYLBnY+0iXWcn7GMNDhhLQ6bxW9Rn2aobnI="
-before_install:
-  - curl -o- -L https://yarnpkg.com/install.sh | bash
-  - export PATH="$HOME/.yarn/bin:$PATH"
-# cache:
-#   yarn: true
+  - secure: MKJF3c5HkAgnJt171x2DgRuH14NCvnRyZIf09Uc9q5vsXRAsQWRXRmdXeLjU8mH/mjNd/japeAkC/uMuywr4TG6oaaA5R9TOg37dKpI48b1M6aXMATx2RyXa24wQxG19szKVknCSrUp8mvFj5ASkabLUQM0ubCWy1tTvaxjj9BtXYmPc9f5H6TISFsJ8rAhAkyTDo5PKAmFc2YFP+HRvULk7Mvf0e9dg+k5Xdx/1Y05UZeG6dXq9FBKlrONNwpPmdQ1V3Y00LyqabytyOyPIHhSs9AxynAwFABlcJAvmb9WotzIwj7oVn+KTqCGi2aqPgHMdavQwIK1dNTkFlg5og7TDbaMq+lCIWOPMIdxt+ouNlg6JPB5NQfviH3pwU/dTRm2GCDBY0BRKHb7tznu2svFjGRj5IzQIfxTcEC7zox++E7W9KcCPo3k0nXZ/Zad1iv1eVzH+5SQJnLA2MJL01Xxgetg7FAlQZ3evxxujoeXcncTfu2/RkPW3fK+3dM1/ILRFBssheqCEFs2q3bzm7tWXTp9idGZbJoKk8JiHKbIGGU3RXNRbuw6gjjAZEcamhpKbLOeMLtekL+fypt+jN2RgetjDhmt5QuzgA/l0ZA2N1uGxvgz6P705Ozb1dpPXAgoSKkJwfrlZYa2orkQV0hxG55XMrmKk+dMbOTvzoWg=
+"--before_install":
+- curl -o- -L https://yarnpkg.com/install.sh | bash
+- export PATH="$HOME/.yarn/bin:$PATH"
 install:
-  - yarn install
+- yarn install
 script:
-    - yarn update
-    - yarn prettier
+- yarn update
+- yarn prettier
 after_success:
-  - git clone git://${GHREPOURL}
-  - mv -f ${README} ${REPONAME}
-  - cd ${REPONAME}
-  - git remote update
-  - git fetch 
-  - git config user.email ${EMAIL}
-  - git config user.name ${USERNAME}
-  - git add ${README}
-  - git commit -m "Travis push to repo"
-  - git push "https://${TRAVIS_SECURE_TOKEN_NAME}@${GHREPOURL}" master 
+- git clone git://${GHREPOURL}
+- mv -f ${README} ${REPONAME}
+- cd ${REPONAME}
+- git remote update
+- git fetch
+- git config user.email ${EMAIL}
+- git config user.name ${USERNAME}
+- git add ${README}
+- git commit -m "Travis push to repo"
+- git push "https://${GH_TOKEN}@${GHREPOURL}" master
