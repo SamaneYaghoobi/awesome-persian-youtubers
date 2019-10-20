@@ -18,7 +18,5 @@ after_success:
 - git config --global user.name "Travis CI"
 - git checkout master
 - git add README.md
-#- git -c user.name='travis' -c user.email='travis' commit -m init
 - git commit -m "update README.md By Travis"
-- git push https://numb95:${GH_TOKEN}@github.com/numb95/awesome-persian-youtubers.git # master # > /dev/null 2>&1
-# - git push -u origin master
+- git push https://numb95:${GH_TOKEN}@github.com/numb95/awesome-persian-youtubers.git > /dev/null 2>&1
