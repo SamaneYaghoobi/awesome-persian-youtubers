@@ -22,7 +22,7 @@ script:
 after_success:
 - git config credential.helper "store --file=.git/credentials"
 - echo "https://${GH_TOKEN}:@github.com" > .git/credentials
-- git clone git://${GHREPOURL}
+- git clone https://${GHREPOURL}
 - mv -f ${README} ${REPONAME}
 - cd ${REPONAME}
 - git remote update
