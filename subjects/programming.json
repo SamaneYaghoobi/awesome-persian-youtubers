@@ -18,10 +18,10 @@
     "channel": "https://www.youtube.com/channel/UCm4xezzuIlcEBFQwkAzm0CQ"
   },
   {
-    "channelName": "amirhosseinab",
-    "description": "کانال امیرحسین عبدالخالق که هر هفته یک ویدئو جدید درباره مهندسی نرم‌افزار، برنامه‌نویسی و سافت‌اسکیل‌ها منتشر میکند",
-    "website": "https://amirhosseinab.me",
-    "channel": "https://www.youtube.com/amirhosseinab"
+    "channelName": "Amirhosseinab",
+    "description": "کانال امیرحسین عبدالخالق که در مورد مهندسی نرم‌افزار، برنامه‌نویسی و مهارت‌های نرم حرف میزنه",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ"
   },
   {
     "channelName": "Alireza Ayinmehr",
@@ -88,5 +88,35 @@
     "description": "ویدئوهایی در مورد آموزش برنامه‌نویسی گو توسط فرود غفوری",
     "website": "",
     "channel": "https://www.youtube.com/channel/UCdtGLDEOsnWlW1IsQFbCAsA"
+  },
+   {
+    "channelName": "Mansour Kalagar",
+    "description": "ویدئوهایی در مورد آموزش برنامه‌نویسی جاوااسکریپت توسط منصور کلاگر",
+    "website": "https://kalagar.ir",
+    "channel": "https://www.youtube.com/user/kalagar2142/featured"
+  },
+   {
+    "channelName": "Wia Developers",
+    "description": "آموزش برنامه نویسی اندروید و ابزار مرتبط و ویراشگرهای مختلف  ",
+    "website": "http://www.wiadevelopers.com",
+    "channel": "https://www.youtube.com/channel/UC88K9iHc3XnbyBc5ZifVQDQ"
+  },
+   {
+    "channelName": "Parsclick",
+    "description": "This channel is about technology and computers tips, change and tricks. There will be video frequently for viewers. ",
+    "website": "https://parsclick.net",
+    "channel": "https://www.youtube.com/user/PersianComputers/featured"
+  },
+   {
+    "channelName": "Yadify",
+    "description": "آموزش نکات مربوط به برنامه نویسی",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCZ8pfoE7BEHzbz56FKZxi6A/featured"
+  },
+   {
+    "channelName": "Ali Bigdeli",
+    "description": "آموزش مبتدی و پیشرفته پایتون، اینترنت اشیا و پردازش تصویر",
+    "website": "http://icc-aria.ir",
+    "channel": "https://www.youtube.com/user/TheAlibigdeli/featured"
   }
 ]
