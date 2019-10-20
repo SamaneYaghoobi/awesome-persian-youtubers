@@ -36,9 +36,11 @@
  | نام کانال | توضیحات | آدرس وب سایت | 
  | --- | --- | --- | 
  | [Alirexza](https://www.youtube.com/channel/UCVgrlpwOFQ_ym6crY5zLLrA) | اینجا علیرکسا بازی استریم میکنه و ویدئوهای فان تو حوزه های مختلف میزاره | --
+[Amirahmad Adibi](https://www.youtube.com/channel/UCbUzynAcuG-JZYE7oI-B2NA) | اینجا احمد بازی استریم میکنه و در مورد برنامه‌نویسی ویدیو منتشر می‌کنه | --
 [Aria Keoxer](https://www.youtube.com/channel/UCDvxToLVx545jFXCgThOtTw) | اینجا اریا راجبه بازی‌های جدید ، گیم‌پلی‌ها ، لتس پلی‌ها ، واکترو و هرچیز دیگه‌ای که با بازی سرو کله داشته باشه ویدئو می‌سازم | --
 [Cl2ash](https://www.youtube.com/channel/UCryFYajnVoMcdEbW1ju3dpg) | اینجا سینا از استریم بازی‌هاش و مطالب فان ویدئو میزاره | --
 [FarshadSilent](https://www.youtube.com/channel/UCYnsnFMvYFhYaDNFNQbGGHQ) | اینجا فرشاد سایلنت بازی استریم میکنه و ویدئوهای فان تو حوزه های مختلف میزاره | --
+[Hidan](https://www.youtube.com/channel/UCUdZT7pd59iNrkLEt7YUfXA) | اینجا هیدان بازی استریم میکنه و ویدئوهای فان تو حوزه های مختلف میزاره | --
 [Mia plays](https://www.youtube.com/channel/UC3Uv6kBh55Jx0Ou0C7-Gudg) | میا ویدئوهایی از استریم بازی و کارهای فان و ولاگ از خودش میزاره | --
 [Toxicgirlow](https://www.youtube.com/channel/UCrUgnxSG_lK1ugbwl6431jw) | اینجا تاکسیک گرل بازی استریم میکنه و ویدئوهای فان تو حوزه های مختلف میزاره | --
 [kewDiePie P](https://www.youtube.com/channel/UCEqm7ZP24EHX7nFlerSDQFg) | اینجا کیودی پای بازی استریم میکنه و ویدئوهای فان تو حوزه های مختلف میزاره | -- | 
