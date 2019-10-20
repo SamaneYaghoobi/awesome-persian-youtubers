@@ -17,19 +17,24 @@
 
  | نام کانال | توضیحات | آدرس وب سایت | 
  | --- | --- | --- | 
- | [Alireza Ayinmehr](https://www.youtube.com/channel/UCkuHzng-3im8CtounzRO-GQ) | Full-Stack Developer from Iran. | --
+ | [Abbas Yazdanpanah](https://www.youtube.com/channel/UCriDa1A8msrOTmfIFNFOhzA) | در این کانال ویدئوهایی که توسط عباس یزدان پناه در حوزه برنامه نویسی که در سایت blog.abyz.ir پخش می‌شود به اشتراک گذاشته می‌شود. | --
+[Alireza Ayinmehr](https://www.youtube.com/channel/UCkuHzng-3im8CtounzRO-GQ) | دوره‌ی رایگان آموزش توسعه وب با فریم‌ورک فلسک به زبان فارسی | --
 [Amirhosseinab](https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ) | کانال امیرحسین عبدالخالق که در مورد مهندسی نرم‌افزار، برنامه‌نویسی و مهارت‌های نرم حرف میزنه | --
+[Foad Shariat](https://www.youtube.com/channel/UCjZGvgsiZa3MRGO4ZstUl9g) | ویدئوهایی توسط فواد شریعت در مورد آموزش انگولار | --
 [Jadi TV](https://www.youtube.com/channel/UCgKePkWtPuF36bJy0n2cEMQ) | کانالی در رابطه با مسائل مرتبط با حوزه تکنولوژی، برنامه‌نویسی و اخبار مرتبط با این حوزه و خیلی چیزای دیگه :) | [وب‌سایت](http://jadi.net)
+[Negarjf](https://www.youtube.com/channel/UCbUgyn-Vzr1U12x4o_k2n2Q) | ویدیو های آموزشی با محوریت برنامه‌نویسی سمت کاربر | --
 [Parsclick](https://www.youtube.com/user/PersianComputers/featured) | شبکه پارس کلیک به عنوان سینمای برنامه نویسان هر چند وقت یکبار ویدئوهای آموزش برنامه نویسی و نکات و ترفندهای مرتبط با این حوزه رو تولید میکنه. | [وب‌سایت](https://parsclick.net)
 [Sahar TheTallWitch](https://www.youtube.com/user/saharpournasseh/featured) | آموزش برنامه نویسی با محوریت پلتفرم اندروید | [وب‌سایت](https://t.me/TheTallWitch)
+[Sajjad Heydari](https://www.youtube.com/user/Sajjjadheydari/) | ویدئوهای متفرقه حوزه برنامه نویسی و بازی | --
+[Siavash Mahmoudian](https://www.youtube.com/user/syavashcom) | ویدئوهایی در مورد آموزش برنامه نیسی وب توسط سیاوش محمودیان | --
 [SkillVid](https://www.youtube.com/channel/UC9aYF7SavRo_A9psgpEmw0A) | ویدیو مهارت هر هفته ویدیو هایی در حوزه وب , برنامه نویسی , ... منتشر میکنه | [وب‌سایت](https://skillvid.com)
-[SoftwareTalks](https://www.youtube.com/channel/UCm4xezzuIlcEBFQwkAzm0CQ) | دورهمی آنلاین جامعه نرم‌افزاری - پخش زنده سه‌شنبه هر هفته ساعت ۱۹ و جمعه‌ هر هفته ساعت ۱۰ | [وب‌سایت](https://softwaretalks.ir)
-[negarjf](https://www.youtube.com/channel/UCbUgyn-Vzr1U12x4o_k2n2Q) | ویدیو های آموزشی با محوریت برنامه‌نویسی سمت کاربر | -- | 
+[SoftwareTalks](https://www.youtube.com/channel/UCm4xezzuIlcEBFQwkAzm0CQ) | دورهمی آنلاین جامعه نرم‌افزاری - پخش زنده سه‌شنبه هر هفته ساعت ۱۹ و جمعه‌ هر هفته ساعت ۱۰ | [وب‌سایت](https://softwaretalks.ir) | 
 ## استریم بازی و حوزه گیمرها
 
  | نام کانال | توضیحات | آدرس وب سایت | 
  | --- | --- | --- | 
- | [Aria Keoxer](https://www.youtube.com/channel/UCDvxToLVx545jFXCgThOtTw) | اینجا اریا راجبه بازی‌های جدید ، گیم‌پلی‌ها ، لتس پلی‌ها ، واکترو و هرچیز دیگه‌ای که با بازی سرو کله داشته باشه ویدئو می‌سازم | --
+ | [Alirexza](https://www.youtube.com/channel/UCVgrlpwOFQ_ym6crY5zLLrA) | اینجا علیرکسا بازی استریم میکنه و ویدئوهای فان تو حوزه های مختلف میزاره | --
+[Aria Keoxer](https://www.youtube.com/channel/UCDvxToLVx545jFXCgThOtTw) | اینجا اریا راجبه بازی‌های جدید ، گیم‌پلی‌ها ، لتس پلی‌ها ، واکترو و هرچیز دیگه‌ای که با بازی سرو کله داشته باشه ویدئو می‌سازم | --
 [Cl2ash](https://www.youtube.com/channel/UCryFYajnVoMcdEbW1ju3dpg) | اینجا سینا از استریم بازی‌هاش و مطالب فان ویدئو میزاره | --
 [FarshadSilent](https://www.youtube.com/channel/UCYnsnFMvYFhYaDNFNQbGGHQ) | اینجا فرشاد سایلنت بازی استریم میکنه و ویدئوهای فان تو حوزه های مختلف میزاره | --
 [Mia plays](https://www.youtube.com/channel/UC3Uv6kBh55Jx0Ou0C7-Gudg) | میا ویدئوهایی از استریم بازی و کارهای فان و ولاگ از خودش میزاره | --
@@ -49,7 +54,8 @@
  | نام کانال | توضیحات | آدرس وب سایت | 
  | --- | --- | --- | 
  | [Amir Tavassoly](https://www.youtube.com/user/2233amir) | اینجا امیر هر دوهفته یکبار ویدئوهای خنده دار درباره موضوعات مختلف خارج از ایران درست میکنه. | --
-[Hasan Reyvandi](https://www.youtube.com/user/farbod97) | .ریوندی اولین کنسرت خنده را در ایران (۲۵ تیر ۹۲، برج میلاد) پایه گذاری کرد. وی در کنسرتهای خنده، با مطرح کردن طنز های اجتماعی ، شومنی ، تقلید صدای خوانندگان و شوخی های سرگرم کننده به اجرای برنامه می پردازد.مدت زمان اجرای برنامه ( در کنسرت های خنده ) توسط ریوندی حدود ٢ ساعت است که بدون توقف و به صورت رو در رو با تماشاچیان انجام می پذیرد. | [وب‌سایت](http://hasanreyvandi.com/) | 
+[Hasan Reyvandi](https://www.youtube.com/user/farbod97) | .ریوندی اولین کنسرت خنده را در ایران (۲۵ تیر ۹۲، برج میلاد) پایه گذاری کرد. وی در کنسرتهای خنده، با مطرح کردن طنز های اجتماعی ، شومنی ، تقلید صدای خوانندگان و شوخی های سرگرم کننده به اجرای برنامه می پردازد.مدت زمان اجرای برنامه ( در کنسرت های خنده ) توسط ریوندی حدود ٢ ساعت است که بدون توقف و به صورت رو در رو با تماشاچیان انجام می پذیرد. | [وب‌سایت](http://hasanreyvandi.com/)
+[PedramTV](https://www.youtube.com/channel/UCTvrGYi30v_JRiaMyYN1q1Q) | ویدئوهای فان در مورد آموزش شعبده بازی با پاسور و چیزای دیگه | -- | 
 ## ورزشی
 
  | نام کانال | توضیحات | آدرس وب سایت | 
@@ -79,7 +85,8 @@
 
  | نام کانال | توضیحات | آدرس وب سایت | 
  | --- | --- | --- | 
- | [Emad Saedi](https://www.youtube.com/channel/UCwoGPU4A-VzKZRyMUlY4q3w/featured) | ویدیو هایی از اجرای موسیقی با پیانو و ... | --
+ | [Chef Javad Javadi](https://www.youtube.com/channel/UCqu8mtd9NBjgSaHUtHjRiLw) | ویدئوهای متنوع در مورد آموزش آشپزی توسط جواد جوادی | --
+[Emad Saedi](https://www.youtube.com/channel/UCwoGPU4A-VzKZRyMUlY4q3w/featured) | ویدیو هایی از اجرای موسیقی با پیانو و ... | --
 [Sadaf Beauty](https://www.youtube.com/channel/UCkCrYodUaJNbfS1cWhCyhGg) | اینجا صدف بیوتی ویدئوهایی در مورد آرایش کردن و چیزای فان دیگه میزاره. | -- | 
 ## سایر موضوعات
 

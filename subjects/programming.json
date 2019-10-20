@@ -25,7 +25,7 @@
   },
   {
     "channelName": "Alireza Ayinmehr",
-    "description": "Full-Stack Developer from Iran.",
+    "description": "دوره‌ی رایگان آموزش توسعه وب با فریم‌ورک فلسک به زبان فارسی",
     "website": "",
     "channel": "https://www.youtube.com/channel/UCkuHzng-3im8CtounzRO-GQ"
   },
@@ -42,27 +42,45 @@
     "channel": "https://www.youtube.com/user/saharpournasseh/featured"
   },
   {
-    "channelName": "negarjf",
+    "channelName": "Negarjf",
     "description": "ویدیو های آموزشی با محوریت برنامه‌نویسی سمت کاربر",
     "website": "",
     "channel": "https://www.youtube.com/channel/UCbUgyn-Vzr1U12x4o_k2n2Q"
   },
   {
-    "channelName": "Programming with Mosh",
-    "description": "ویدیو های اموزش برنامه نویسی که از یک برنامه نویس ایرانی با زبان انگلیسی است",
-    "website": "http://codewithmosh.com",
-    "channel": "https://www.youtube.com/user/programmingwithmosh/"
-  },
-  {
     "channelName": "Amirahmad Adibi",
-    "description": "آموزش برنامه نویسی به زبان جاوا",
+    "description": "از سال 93 اموزش برنامه نویسی رو با اموزش برنامه نویسی اندروید شروع کردم . از اون موقع متوجه شدم که بچه ها خیلی اموزش هام رو دوست دارن و مثل اینکه اموزش هام خوبه . الان توی زرین پال محتوای اموزشی تولید میکنم و کلاس های خصوصی اموزش برنامه نویسی با بچه های خارج از شرکت دارم .",
     "website": "https://www.instagram.com/amirahmadadibii/",
     "channel": "https://www.youtube.com/channel/UCbUzynAcuG-JZYE7oI-B2NA"
   },
   {
     "channelName": "Seyed Naser Razavi",
-    "description": "آموزش پایتون",
+    "description": "در این کانال مهارت‌های گوناگون مورد نیاز در حوزه هوش مصنوعی، یادگیری ماشین، شبکه‌های عصبی و یادگیری ژرف (یادگیری عمیق)، آموزش داده خواهد شد. از جمله مهم‌ترین این مهارت‌ها می‌توان به مهارت‌های برنامه‌نویسی در «پایتون»، آشنایی با مفاهیم مهم و الگوریتم‌های پرکاربرد یادگیری ماشین و یادگیری ژرف مانند شبکه‌های عصبی، شبکه‌های عصبی بازگشتی و شبکه‌های عصبی کانولوشن و به کارگیری این الگوریتم‌ها در عمل به منظور حل مسائل گوناگون دنیای واقعی اشاره نمود.",
     "website": "https://twitter.com/naser_razavi",
     "channel": "https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ"
+  },
+  {
+    "channelName": "Sajjad Heydari",
+    "description": "ویدئوهای متفرقه حوزه برنامه نویسی و بازی",
+    "website": "",
+    "channel": "https://www.youtube.com/user/Sajjjadheydari/"
+  },
+  {
+    "channelName": "Abbas Yazdanpanah",
+    "description": "در این کانال ویدئوهایی که توسط عباس یزدان پناه در حوزه برنامه نویسی که در سایت blog.abyz.ir پخش می‌شود به اشتراک گذاشته می‌شود.",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCriDa1A8msrOTmfIFNFOhzA"
+  },
+  {
+    "channelName": "Foad Shariat",
+    "description": "ویدئوهایی توسط فواد شریعت در مورد آموزش انگولار",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCjZGvgsiZa3MRGO4ZstUl9g"
+  },
+  {
+    "channelName": "Siavash Mahmoudian",
+    "description": "ویدئوهایی در مورد آموزش برنامه نیسی وب توسط سیاوش محمودیان",
+    "website": "",
+    "channel": "https://www.youtube.com/user/syavashcom"
   }
 ]
