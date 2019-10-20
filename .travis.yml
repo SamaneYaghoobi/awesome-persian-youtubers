@@ -22,7 +22,6 @@ script:
     - yarn update
     - yarn prettier
 after_success:
-  - MESSAGE="Auto push README.md"
   - git clone git://${GHREPOURL}
   - mv -f ${README} ${REPONAME}
   - cd ${REPONAME}
@@ -30,8 +29,6 @@ after_success:
   - git fetch 
   - git config user.email ${EMAIL}
   - git config user.name ${USERNAME}
-  - ls
-  - git checkout master
   - git add ${README}
-  - git commit -m ${MESSAGE}
+  - git commit -m $(git log --format=%B -n 1 $TRAVIS_COMMIT)
   - git push "https://${TRAVIS_SECURE_TOKEN_NAME}@${GHREPOURL}" master > /dev/null 2>&1
