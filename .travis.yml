@@ -14,10 +14,10 @@ script:
 - yarn update
 - yarn prettier
 after_success:
-- git config --global user.email travis@travis-ci.org
-- git config --global user.name "Travis CI"
-- git checkout master
-- git add README.md
-- git commit -m "Travis push to repo."
-- git remote add upstream https://numb95:${GH_TOKEN}@github.com/numb95/awesome-persian-youtubers.git > /dev/null 2>&1
-- git push -u origin master
+# - git config --global user.email travis@travis-ci.org
+# - git config --global user.name "Travis CI"
+- git checkout  --orphan master
+- git add README.md -f --ignore-errors --all
+- git -c user.name='travis' -c user.email='travis' commit -m init
+- git push -f -q https://numb95:${GH_TOKEN}@github.com/awesome-persian-youtubers master > /dev/null 2>&1
+# - git push -u origin master
