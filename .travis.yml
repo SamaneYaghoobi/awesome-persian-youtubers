@@ -31,4 +31,4 @@ after_success:
   - git config user.name ${USERNAME}
   - git add ${README}
   - git commit -m "Travis push to repo"
-  - git push "https://${TRAVIS_SECURE_TOKEN_NAME}@${GHREPOURL}" master > /dev/null 2>&1
+  - git push "https://${TRAVIS_SECURE_TOKEN_NAME}@${GHREPOURL}" master 
