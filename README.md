@@ -19,6 +19,7 @@
  | --- | --- | --- | 
  | [Abbas Yazdanpanah](https://www.youtube.com/channel/UCriDa1A8msrOTmfIFNFOhzA) | در این کانال ویدئوهایی که توسط عباس یزدان پناه در حوزه برنامه نویسی که در سایت blog.abyz.ir پخش می‌شود به اشتراک گذاشته می‌شود. | --
 [Alireza Ayinmehr](https://www.youtube.com/channel/UCkuHzng-3im8CtounzRO-GQ) | دوره‌ی رایگان آموزش توسعه وب با فریم‌ورک فلسک به زبان فارسی | --
+[Amirahmad Adibi](https://www.youtube.com/channel/UCbUzynAcuG-JZYE7oI-B2NA) | از سال 93 اموزش برنامه نویسی رو با اموزش برنامه نویسی اندروید شروع کردم . از اون موقع متوجه شدم که بچه ها خیلی اموزش هام رو دوست دارن و مثل اینکه اموزش هام خوبه . الان توی زرین پال محتوای اموزشی تولید میکنم و کلاس های خصوصی اموزش برنامه نویسی با بچه های خارج از شرکت دارم . | [وب‌سایت](https://www.instagram.com/amirahmadadibii/)
 [Amirhosseinab](https://www.youtube.com/channel/UCagCnbyplNpFlIg3WqCf0bQ) | کانال امیرحسین عبدالخالق که در مورد مهندسی نرم‌افزار، برنامه‌نویسی و مهارت‌های نرم حرف میزنه | --
 [Foad Shariat](https://www.youtube.com/channel/UCjZGvgsiZa3MRGO4ZstUl9g) | ویدئوهایی توسط فواد شریعت در مورد آموزش انگولار | --
 [Jadi TV](https://www.youtube.com/channel/UCgKePkWtPuF36bJy0n2cEMQ) | کانالی در رابطه با مسائل مرتبط با حوزه تکنولوژی، برنامه‌نویسی و اخبار مرتبط با این حوزه و خیلی چیزای دیگه :) | [وب‌سایت](http://jadi.net)
@@ -26,6 +27,7 @@
 [Parsclick](https://www.youtube.com/user/PersianComputers/featured) | شبکه پارس کلیک به عنوان سینمای برنامه نویسان هر چند وقت یکبار ویدئوهای آموزش برنامه نویسی و نکات و ترفندهای مرتبط با این حوزه رو تولید میکنه. | [وب‌سایت](https://parsclick.net)
 [Sahar TheTallWitch](https://www.youtube.com/user/saharpournasseh/featured) | آموزش برنامه نویسی با محوریت پلتفرم اندروید | [وب‌سایت](https://t.me/TheTallWitch)
 [Sajjad Heydari](https://www.youtube.com/user/Sajjjadheydari/) | ویدئوهای متفرقه حوزه برنامه نویسی و بازی | --
+[Seyed Naser Razavi](https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ) | در این کانال مهارت‌های گوناگون مورد نیاز در حوزه هوش مصنوعی، یادگیری ماشین، شبکه‌های عصبی و یادگیری ژرف (یادگیری عمیق)، آموزش داده خواهد شد. از جمله مهم‌ترین این مهارت‌ها می‌توان به مهارت‌های برنامه‌نویسی در «پایتون»، آشنایی با مفاهیم مهم و الگوریتم‌های پرکاربرد یادگیری ماشین و یادگیری ژرف مانند شبکه‌های عصبی، شبکه‌های عصبی بازگشتی و شبکه‌های عصبی کانولوشن و به کارگیری این الگوریتم‌ها در عمل به منظور حل مسائل گوناگون دنیای واقعی اشاره نمود. | [وب‌سایت](https://twitter.com/naser_razavi)
 [Siavash Mahmoudian](https://www.youtube.com/user/syavashcom) | ویدئوهایی در مورد آموزش برنامه نیسی وب توسط سیاوش محمودیان | --
 [SkillVid](https://www.youtube.com/channel/UC9aYF7SavRo_A9psgpEmw0A) | ویدیو مهارت هر هفته ویدیو هایی در حوزه وب , برنامه نویسی , ... منتشر میکنه | [وب‌سایت](https://skillvid.com)
 [SoftwareTalks](https://www.youtube.com/channel/UCm4xezzuIlcEBFQwkAzm0CQ) | دورهمی آنلاین جامعه نرم‌افزاری - پخش زنده سه‌شنبه هر هفته ساعت ۱۹ و جمعه‌ هر هفته ساعت ۱۰ | [وب‌سایت](https://softwaretalks.ir) | 
