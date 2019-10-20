@@ -19,4 +19,4 @@ after_success:
 - git checkout master
 - git add README.md
 - git commit -m "update README.md By Travis"
-- git push https://numb95:${GH_TOKEN}@github.com/numb95/awesome-persian-youtubers.git > /dev/null 2>&1
+- git push https://SamaneYaghoobi:${GH_TOKEN}@github.com/SamaneYaghoobi/awesome-persian-youtubers.git > /dev/null 2>&1
