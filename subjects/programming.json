@@ -46,5 +46,23 @@
     "description": "ویدیو های آموزشی با محوریت برنامه‌نویسی سمت کاربر",
     "website": "",
     "channel": "https://www.youtube.com/channel/UCbUgyn-Vzr1U12x4o_k2n2Q"
+  },
+  {
+    "channelName": "Programming with Mosh",
+    "description": "ویدیو های اموزش برنامه نویسی که از یک برنامه نویس ایرانی با زبان انگلیسی است",
+    "website": "http://codewithmosh.com",
+    "channel": "https://www.youtube.com/user/programmingwithmosh/"
+  },
+  {
+    "channelName": "Amirahmad Adibi",
+    "description": "آموزش برنامه نویسی به زبان جاوا",
+    "website": "https://www.instagram.com/amirahmadadibii/",
+    "channel": "https://www.youtube.com/channel/UCbUzynAcuG-JZYE7oI-B2NA"
+  },
+  {
+    "channelName": "Seyed Naser Razavi",
+    "description": "آموزش پایتون",
+    "website": "https://twitter.com/naser_razavi",
+    "channel": "https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ"
   }
 ]
