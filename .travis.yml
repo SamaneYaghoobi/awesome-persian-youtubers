@@ -10,5 +10,5 @@ before_install:
 install:
   - yarn install
 script:
-    - node . > README.md
-    - prettier \"**/*.{js,md,json}\" --write
+    - yarn update
+    - yarn prettier
