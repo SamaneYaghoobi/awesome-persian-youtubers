@@ -19,5 +19,5 @@ after_success:
 # - git checkout  --orphan master
 - git add README.md -f --ignore-errors --all
 - git -c user.name='travis' -c user.email='travis' commit -m init
-- git push -f -q https://numb95:${GH_TOKEN}@github.com/numb95/awesome-persian-youtubers master # > /dev/null 2>&1
+- git push https://numb95:${GH_TOKEN}@github.com/numb95/awesome-persian-youtubers master # > /dev/null 2>&1
 # - git push -u origin master
