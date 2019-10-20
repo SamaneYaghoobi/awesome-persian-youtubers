@@ -19,5 +19,5 @@ after_success:
 - git checkout master
 - git add README.md
 - git commit -m "Travis push to repo. Ref: $TRAVIS_BUILD_NUMBER"
-- git remote add origin-pages https://${GH_TOKEN}@github.com/numb95/awesome-persian-youtubers.git > /dev/null 2>&1
-- git push --quiet --set-upstream origin master
+- git remote add upstream https://${GH_TOKEN}@github.com/numb95/awesome-persian-youtubers.git > /dev/null 2>&1
+- git push -u origin master
