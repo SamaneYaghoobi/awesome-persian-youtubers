@@ -26,7 +26,8 @@ after_success:
   - git clone git://${GHREPOURL}
   - mv -f ${README} ${REPONAME}
   - cd ${REPONAME}
-  - git remote
+  - git remote update
+  - git fetch 
   - git config user.email ${EMAIL}
   - git config user.name ${USERNAME}
   - ls
