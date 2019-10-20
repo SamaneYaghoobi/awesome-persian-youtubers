@@ -31,6 +31,7 @@ after_success:
   - git config user.email ${EMAIL}
   - git config user.name ${USERNAME}
   - ls
+  - git checkout master
   - git add ${README}
   - git commit -m ${MESSAGE}
   - git push "https://${TRAVIS_SECURE_TOKEN_NAME}@${GHREPOURL}" master > /dev/null 2>&1
