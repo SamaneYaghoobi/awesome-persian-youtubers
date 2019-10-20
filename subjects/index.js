@@ -11,8 +11,8 @@ const arts = require('../subjects/arts.json');
 const other = require('../subjects/other.json');
 
 const SubjectsList = [
-  ['تکنولوژی و حوزه آیتی', technology_it],
-  ['برنامه نویسی', programming],
+  ['تکنولوژی و حوزه آی‌تی', technology_it],
+  ['برنامه‌نویسی', programming],
   ['استریم بازی و حوزه گیمرها', game_stream],
   ['شخصی، خاطرات روزانه و ولاگ', personal_diary_vlog],
   ['مطالب فان و سرگرمی', funny_comics],
