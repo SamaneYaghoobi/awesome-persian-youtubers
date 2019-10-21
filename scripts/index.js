@@ -7,7 +7,7 @@ const { SubjectsList } = require('../subjects');
 
 const makeTable = (obj, head) => {
   var rows = chain(obj)
-    .sortBy('channelName')
+    .sortBy(r => r.channelName.toLowerCase())
     .partition('channelName')
     .flatten()
     .value();
