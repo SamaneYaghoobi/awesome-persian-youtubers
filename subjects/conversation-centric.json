@@ -1,20 +1,32 @@
 [
-  {
-    "channelName": "Golshid",
-    "description": "اینجا گلشید که یک اینستاگرامر هست با آدم‌های مختلف در حوزه‌های مختلف مثل روانشانسی، مهاجرت، بیماری‌های خاص و ... لایو میزاره و اینجا در واقع آرشیوی از لایوهای اینستاگرامش هستش.",
-    "website": "",
-    "channel": "https://www.youtube.com/channel/UChHzEpcNzipFcDAV9LezYww"
-  },
-  {
-    "channelName": "Amir Hossein Mirzaee",
-    "description": "اینجا محتوای تصویری پادکست بازی منتشر میشود",
-    "website": "",
-    "channel": "https://www.youtube.com/user/amirmiri"
-  },
-  {
-    "channelName": "Hatoon Panahi Poor",
-    "description": "هوتن پناهی پور با مردم درمورد موضوعات مختلف مصاحبه و گفتگو می کنه",
-    "website": "",
-    "channel": "https://www.youtube.com/channel/UCdPIT6IvzhS4itAFDvA2_Lw"
-  }
+   {
+      "channelName":"Golshid",
+      "description":"اینجا گلشید که یک اینستاگرامر هست با آدم‌های مختلف در حوزه‌های مختلف مثل روانشانسی، مهاجرت، بیماری‌های خاص و ... لایو میزاره و اینجا در واقع آرشیوی از لایوهای اینستاگرامش هستش.",
+      "website":"",
+      "channel":"https://www.youtube.com/channel/UChHzEpcNzipFcDAV9LezYww"
+   },
+   {
+      "channelName":"Amir Hossein Mirzaee",
+      "description":"اینجا محتوای تصویری پادکست بازی منتشر میشود",
+      "website":"",
+      "channel":"https://www.youtube.com/user/amirmiri"
+   },
+   {
+      "channelName":"Hatoon Panahi Poor",
+      "description":"هوتن پناهی پور با مردم درمورد موضوعات مختلف مصاحبه و گفتگو می کنه",
+      "website":"",
+      "channel":"https://www.youtube.com/channel/UCdPIT6IvzhS4itAFDvA2_Lw"
+   },
+   {
+      "channelName":"عادل طالبی Adel Talebi",
+      "description":"گفتگو‌ها و ارائه‌های عادل طالبی در حوزه دیجیتال مارکتینگ و محتوا",
+      "website":"",
+      "channel":"https://www.youtube.com/c/AdelTalebi/"
+   },
+   {
+      "channelName": "mohammad jorjandi",
+      "description":"گفتگو‌ها و مصاحبه‌های محمد جرجندی درباره تخلفات شرکت‌ها و دولت‌ ایران",
+      "website":"https://news.webamooz.com/",
+      "channel":"https://www.youtube.com/c/jorjandi/"
+   }
 ]
