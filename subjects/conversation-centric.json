@@ -22,5 +22,17 @@
     "description": "نعیم ویدیو های با کیفیت و آموزنده درمورد کانادا و زندگی در کانادا درست میکنه",
     "website": "",
     "channel": "https://www.youtube.com/channel/UC4bRceOFDndQMDCq_HQ_W4A"
-  }
+  },
+   {
+      "channelName":"عادل طالبی Adel Talebi",
+      "description":"گفتگو‌ها و ارائه‌های عادل طالبی در حوزه دیجیتال مارکتینگ و محتوا",
+      "website":"",
+      "channel":"https://www.youtube.com/c/AdelTalebi/"
+   },
+   {
+      "channelName": "mohammad jorjandi",
+      "description":"گفتگو‌ها و مصاحبه‌های محمد جرجندی درباره تخلفات شرکت‌ها و دولت‌ ایران",
+      "website":"https://news.webamooz.com/",
+      "channel":"https://www.youtube.com/c/jorjandi/"
+   }
 ]

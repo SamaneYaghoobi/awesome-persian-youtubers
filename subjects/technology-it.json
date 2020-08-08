@@ -2,7 +2,7 @@
   {
     "channelName": "Binosha",
     "description": " بینوشا از ترکیب دو کلمه ساخته شده بین (بن مضارع دیدن) و نیوشا (حرف اسم از شنیدن) ساخته شده، ممکنه یخورده سخت باشه ولی خب اولش فکر نمیکردیم لازم باشه این همه توضیحات به همه بدیم. ما تو بینوشا هدفمون ایجاد محتوای خوب و با کیفیت ویدیویی و صوتی فارسیه",
-    "website": "",
+    "website": "https://binosha.com/",
     "channel": "https://www.youtube.com/channel/UCNqT8Qk747G4alIBzPgRQiw"
   },
   {
@@ -16,5 +16,12 @@
     "description": "سامان درمورد ترفند های عکاسی و فیلم برداری و ویرایش عکس و فیلم ویدیو میسازه",
     "website": "",
     "channel": "https://www.youtube.com/channel/UCYSzk311lW2qotWSv_Jtdng"
+  },
+  {
+    "channelName": "Tutorial channel",
+    "description": "ویدیوهایی در حوزه کامپیوتر، بررسی توزیع های لینوکس، و اخبار دنیای اوپن سورس",
+    "website": "",
+    "channel": "youtube.com/channel/UChOR99ss9_-BSVtIzjQh99g"
   }
+  
 ]
