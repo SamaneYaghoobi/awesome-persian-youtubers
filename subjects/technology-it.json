@@ -28,6 +28,23 @@
     "description": "ویدیوهایی در حوزه کامپیوتر، بررسی توزیع های لینوکس، و اخبار دنیای اوپن سورس",
     "website": "",
     "channel": "youtube.com/channel/UChOR99ss9_-BSVtIzjQh99g"
-  }
-  
+  },
+  {
+    "channelName": "Alireza Khoddam",
+    "description": "نقد و بررسی و آنباکسینگ محصولات مختلف",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UC16GSaepRNHMMV-4mfHJgwQ"
+  },
+  {
+    "channelName": "BaaPooya",
+    "description": "هر هفته با ویدیویی در مورد تکنولوژی های جذاب خصوصا تسلا",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCIOAToXqGOahdcukztzznFA"
+  },
+  {
+    "channelName": "Alireza Vaziri",
+    "description": "ویدیوهایی در حوزه امنیت سایبری",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCyJk8s2JnmfMmBOQXg7ap5A"
+  },
 ]
