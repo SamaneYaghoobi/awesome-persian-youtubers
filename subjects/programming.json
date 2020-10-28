@@ -100,5 +100,22 @@
         "description": "وحید آموزش هایی با موضوع برنامه نویسی مخصوصا زبان پایتون قرار میده",
         "website": "https://iamv.ir/",
         "channel": "https://www.youtube.com/c/VahidNaeini/"
+    },
+        "channelName": "Seyed Naser Razavi",
+        "description": "کانال استاد دانشگاه سید ناصر رضوی با موضوعات مختلفی مانند: طراحی الگوریتم - هوش مصنوعی - شبکه های عصبی مصنوعی - برنامه نویسی پایتون",
+        "website": "",
+        "channel": "https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ"
+    },
+    {
+        "channelName": "Vahid Naeini",
+        "description": "این کانال ویدیو هایی در موضوعاتی مانند برنامه نویسی پایتون و لینکوس دارد",
+        "website": "",
+        "channel": "https://www.youtube.com/channel/UCc95fLUDogjmPlRwz2MZGNA"
+    },
+    {
+        "channelName": "Alireza Vaziri",
+        "description": "کانال با ویدیو هایی مربوط به امنیت سایبری",
+        "website": "",
+        "channel": "https://www.youtube.com/channel/UCyJk8s2JnmfMmBOQXg7ap5A"
     }
 ]
