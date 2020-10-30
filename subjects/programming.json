@@ -117,6 +117,12 @@
         "description": "کانال با ویدیو هایی مربوط به امنیت سایبری",
         "website": "",
         "channel": "https://www.youtube.com/channel/UCyJk8s2JnmfMmBOQXg7ap5A"
+    },
+        {
+        "channelName": "irlogcat",
+        "description": "مباحث برنامه نویسی و آموزش برنامه نویسی",
+        "website": "https://irlogcat.ir/",
+        "channel": "https://www.youtube.com/c/irlogcat"
     }
     {
         "channelName": "Technolotin",
