@@ -94,5 +94,29 @@
         "description": "این کانال برای آموزش برنامه نویسی در دو جنبه ی مختلف از سطح مبتدی هست : جنبه ی اول برنامه نویسی بر پایه حل مسئله و جنبه ی دوم طراحی و برنامه نویسی وب سایت، شروع به کار :‌ اردیبهشت 1399",
         "website": "",
         "channel": "https://www.youtube.com/channel/UCBHSltuZfo9Jjlsj4BZRWOQ"
+    },
+    {
+        "channelName": "Seyed Naser Razavi",
+        "description": "کانال استاد دانشگاه سید ناصر رضوی با موضوعات مختلفی مانند: طراحی الگوریتم - هوش مصنوعی - شبکه های عصبی مصنوعی - برنامه نویسی پایتون",
+        "website": "",
+        "channel": "https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ"
+    },
+    {
+        "channelName": "Vahid Naeini",
+        "description": "این کانال ویدیو هایی در موضوعاتی مانند برنامه نویسی پایتون و لینکوس دارد",
+        "website": "",
+        "channel": "https://www.youtube.com/channel/UCc95fLUDogjmPlRwz2MZGNA"
+    },
+    {
+        "channelName": "Alireza Vaziri",
+        "description": "کانال با ویدیو هایی مربوط به امنیت سایبری",
+        "website": "",
+        "channel": "https://www.youtube.com/channel/UCyJk8s2JnmfMmBOQXg7ap5A"
+    }
+    {
+        "channelName": "Technolotin",
+        "description": " ما در تکنولوتین، قصد داریم ابزار و روش های آموزش برنامه نویسی و مفاهیم کامپیوتر رو به شما معرفی کنیم تا با استفاده از اونا بتونید به رشد فکری کودکان و نوجوانان خودتون کمک کنید.",
+        "website": "https://technolotin.com",
+        "channel": "https://www.youtube.com/technolotin"
     }
 ]
