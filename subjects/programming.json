@@ -123,11 +123,23 @@
         "description": "مباحث برنامه نویسی و آموزش برنامه نویسی",
         "website": "https://irlogcat.ir/",
         "channel": "https://www.youtube.com/c/irlogcat"
-    }
+    },
     {
         "channelName": "Technolotin",
         "description": " ما در تکنولوتین، قصد داریم ابزار و روش های آموزش برنامه نویسی و مفاهیم کامپیوتر رو به شما معرفی کنیم تا با استفاده از اونا بتونید به رشد فکری کودکان و نوجوانان خودتون کمک کنید.",
         "website": "https://technolotin.com",
         "channel": "https://www.youtube.com/technolotin"
+    },
+    {
+        "channelName": "MrMMG",
+        "description": "هر هفته یک ویدیو درباره مهندسی نرم افزار و طراحی وب",
+        "website": "https://mrmmg.ir",
+        "channel": "https://www.youtube.com/channel/UCxAH-5mkZJ3DDsGgdUadITw"
+    },
+    {
+        "channelName": "AliKarbasi",
+        "description": "آموزش برنامه نویسی اندروید و طراحی وب",
+        "website": "https://alikarbasi.ir",
+        "channel": "https://www.youtube.com/alikarbasi"
     }
 ]
