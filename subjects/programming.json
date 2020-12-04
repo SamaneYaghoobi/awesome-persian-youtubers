@@ -123,11 +123,17 @@
         "description": "مباحث برنامه نویسی و آموزش برنامه نویسی",
         "website": "https://irlogcat.ir/",
         "channel": "https://www.youtube.com/c/irlogcat"
-    }
+    },
     {
         "channelName": "Technolotin",
         "description": " ما در تکنولوتین، قصد داریم ابزار و روش های آموزش برنامه نویسی و مفاهیم کامپیوتر رو به شما معرفی کنیم تا با استفاده از اونا بتونید به رشد فکری کودکان و نوجوانان خودتون کمک کنید.",
         "website": "https://technolotin.com",
         "channel": "https://www.youtube.com/technolotin"
+    },
+        {
+        "channelName": "باشگاه کدزنی",
+        "description": "مهارت‌هایی مثل TDD، بازسازی کد (ریفکتورینگ)، طراحی خوب و... سخت به دست میاد و ساده از دست می‌ره. تو باشگاه کد می‌خوایم دور از پیچیدگی‌ها و دغدغه‌های کاری، روی بهبود این مهارت‌ها تمرکز کنیم.",
+        "website": "https://a3dho3yn.ir/",
+        "channel": "https://www.youtube.com/c/kodingdojo"
     }
 ]
