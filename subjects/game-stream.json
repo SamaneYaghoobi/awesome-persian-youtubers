@@ -89,10 +89,16 @@
     "website": "",
     "channel": "https://www.youtube.com/channel/UCg44jDsuBRPPFuv_y2C3OGQ"
   },
-    {
+  {
     "channelName": " Amir PhanThom",
     "description": "امیر فنتوم استریمر و گیمر معروف ایرانیه وعلاوه بر یوتوب عمده فعالیتش تو کانال توییچشه",
     "website": "",
     "channel": "https://www.youtube.com/channel/UCJUhYlAL8OxhY50kSGb4gvA"
+  },
+  {
+    "channelName": "SEC-SHOT",
+    "description": "محمد حداد ویدیو های فان مثل آپارات گردی و گیم و هرازگاهی ولاگ میذاره",
+    "website": "https://secshot.ir/",
+    "channel": "https://www.youtube.com/channel/UC_FRhwnFOHBPCA2Uz05svIQ"    
   }
 ]
