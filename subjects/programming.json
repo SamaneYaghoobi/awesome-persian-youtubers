@@ -101,6 +101,7 @@
         "website": "https://iamv.ir/",
         "channel": "https://www.youtube.com/c/VahidNaeini/"
     },
+    {
         "channelName": "Seyed Naser Razavi",
         "description": "کانال استاد دانشگاه سید ناصر رضوی با موضوعات مختلفی مانند: طراحی الگوریتم - هوش مصنوعی - شبکه های عصبی مصنوعی - برنامه نویسی پایتون",
         "website": "",
@@ -117,5 +118,17 @@
         "description": "کانال با ویدیو هایی مربوط به امنیت سایبری",
         "website": "",
         "channel": "https://www.youtube.com/channel/UCyJk8s2JnmfMmBOQXg7ap5A"
+    },
+        {
+        "channelName": "irlogcat",
+        "description": "مباحث برنامه نویسی و آموزش برنامه نویسی",
+        "website": "https://irlogcat.ir/",
+        "channel": "https://www.youtube.com/c/irlogcat"
+    },
+    {
+        "channelName": "Technolotin",
+        "description": " ما در تکنولوتین، قصد داریم ابزار و روش های آموزش برنامه نویسی و مفاهیم کامپیوتر رو به شما معرفی کنیم تا با استفاده از اونا بتونید به رشد فکری کودکان و نوجوانان خودتون کمک کنید.",
+        "website": "https://technolotin.com",
+        "channel": "https://www.youtube.com/technolotin"
     }
 ]

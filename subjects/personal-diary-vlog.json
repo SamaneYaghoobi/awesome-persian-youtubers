@@ -1,5 +1,4 @@
-[
-  {
+[{
     "channelName": "Pelak Media",
     "description": "پلاک مدیا یک ولاگ است. ولاگ چیست؟ همان ویدیو بلاگ است که به صورت روزمره رکورد و ادیت می‌شود. ما در پلاک مدیا به سراغ مکان‌ها و چالش‌های مختلف رفته و از آنها ویدیو تهیه می‌کنیم و با شما به اشتراک می‌گذاریم.",
     "website": "",
@@ -66,6 +65,18 @@
     "channel": "https://www.youtube.com/channel/UCSuiLseime5mmciDOOTM0Lw"
   },
   {
+    "channelName": "Abed Naseri",
+    "description": "زندگی در آلمان و هرچیزی که در مورد آلمان باید بدونین. سوال هاتونو میتونین کامنت کنید, یا مستقیم جوابشون رو میدم یا راجع بش یه ویدیو درست میکنم.",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UC9YPp2Gpeu_nDnuWiygvXxg"
+  },
+  {
+    "channelName": "Fariborz Rafie",
+    "description": "خوش امدید به کانال خودتان Fariborz Rafie BMW Genius | فروشنده و مشاور فروش شرکت BMW |  زندگی در خارج از کشور: سختی ها و فرصت ها | راه های پیشرفت شخصی | دنیای زیبای خودروهای اسپرت | تازه های تکنولوژی | ترفندهای زندگی بهتر ",
+    "website": "",
+    "channel": "https://www.youtube.com/c/FariborzBMWGenius"
+  },
+ {
     "channelName": "Amin Sani",
     "description": "به اشتراک گذاشتن تجربیات مهاجرت به سوئد و سایر کشور های اروپایی و ولاگ هایی از سوئد",
     "website": "",
@@ -94,5 +105,11 @@
     "description": "احسان نوری یکی از رفیق جینگ های علی بروکس (یوتیوبر) که ویدیو های فان می سازه",
     "website": "",
     "channel": "https://www.youtube.com/channel/UCNmJklF5v1IAwH0wh87MZaA"
+  },
+  {
+    "channelName": "Mohi Sanisel",
+    "description": "محی سنیسل بنیانگذار استارتاپ دونیت از مهاجرتش با کانادا و روزمرگی هاش میگه",
+    "website": "",
+    "channel": "https://www.youtube.com/user/TheMrMohi"
   }
 ]
