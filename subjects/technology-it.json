@@ -2,7 +2,7 @@
   {
     "channelName": "Binosha",
     "description": " بینوشا از ترکیب دو کلمه ساخته شده بین (بن مضارع دیدن) و نیوشا (حرف اسم از شنیدن) ساخته شده، ممکنه یخورده سخت باشه ولی خب اولش فکر نمیکردیم لازم باشه این همه توضیحات به همه بدیم. ما تو بینوشا هدفمون ایجاد محتوای خوب و با کیفیت ویدیویی و صوتی فارسیه",
-    "website": "",
+    "website": "https://binosha.com/",
     "channel": "https://www.youtube.com/channel/UCNqT8Qk747G4alIBzPgRQiw"
   },
   {
@@ -16,5 +16,47 @@
     "description": "سامان درمورد ترفند های عکاسی و فیلم برداری و ویرایش عکس و فیلم ویدیو میسازه",
     "website": "",
     "channel": "https://www.youtube.com/channel/UCYSzk311lW2qotWSv_Jtdng"
+  },
+   {
+    "channelName": "SampoyTech فارسی",
+    "description": "توی این کانال دستگاه‌های خانه هوشمند و گجت‌های مختلف تکنولوژی را معرفی و بررسی می‌کنم",
+    "website": "",
+    "channel": "https://www.youtube.com/c/SampoyTech_fa"
+  },
+  {
+    "channelName": "Tutorial channel",
+    "description": "ویدیوهایی در حوزه کامپیوتر، بررسی توزیع های لینوکس، و اخبار دنیای اوپن سورس",
+    "website": "",
+    "channel": "youtube.com/channel/UChOR99ss9_-BSVtIzjQh99g"
+  },
+  {
+    "channelName": "MoboNews",
+    "description": "مهدی شجاری تو این کانال ماجراجویی هاش توی دنیای تکنولوژی رو با شما به اشتراک میذاره",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCal5H0vgmsKcwMKiUflVpEw/"
+  },
+  {
+    "channelName": "MikaDart",
+    "description": "میلاد درمورد فیلمسازی، تصویر سازی ویدیو میسازه",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCh5qhWefiliKnwIHg55ZbYw"
+  },
+  {
+    "channelName": "Alireza Khoddam",
+    "description": "نقد و بررسی و آنباکسینگ محصولات مختلف",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UC16GSaepRNHMMV-4mfHJgwQ"
+  },
+  {
+    "channelName": "BaaPooya",
+    "description": "هر هفته با ویدیویی در مورد تکنولوژی های جذاب خصوصا تسلا",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCIOAToXqGOahdcukztzznFA"
+  },
+  {
+    "channelName": "Alireza Vaziri",
+    "description": "ویدیوهایی در حوزه امنیت سایبری",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCyJk8s2JnmfMmBOQXg7ap5A"
   }
 ]

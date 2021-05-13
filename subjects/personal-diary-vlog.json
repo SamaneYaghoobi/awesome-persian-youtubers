@@ -1,5 +1,4 @@
-[
-  {
+[{
     "channelName": "Pelak Media",
     "description": "پلاک مدیا یک ولاگ است. ولاگ چیست؟ همان ویدیو بلاگ است که به صورت روزمره رکورد و ادیت می‌شود. ما در پلاک مدیا به سراغ مکان‌ها و چالش‌های مختلف رفته و از آنها ویدیو تهیه می‌کنیم و با شما به اشتراک می‌گذاریم.",
     "website": "",
@@ -64,5 +63,41 @@
     "description": "مسعود از آلمان و زندگی در آلمان ویدیو می سازه",
     "website": "",
     "channel": "https://www.youtube.com/channel/UCSuiLseime5mmciDOOTM0Lw"
+  },
+  {
+    "channelName": "Abed Naseri",
+    "description": "زندگی در آلمان و هرچیزی که در مورد آلمان باید بدونین. سوال هاتونو میتونین کامنت کنید, یا مستقیم جوابشون رو میدم یا راجع بش یه ویدیو درست میکنم.",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UC9YPp2Gpeu_nDnuWiygvXxg"
+  },
+  {
+    "channelName": "Fariborz Rafie",
+    "description": "خوش امدید به کانال خودتان Fariborz Rafie BMW Genius | فروشنده و مشاور فروش شرکت BMW |  زندگی در خارج از کشور: سختی ها و فرصت ها | راه های پیشرفت شخصی | دنیای زیبای خودروهای اسپرت | تازه های تکنولوژی | ترفندهای زندگی بهتر ",
+    "website": "",
+    "channel": "https://www.youtube.com/c/FariborzBMWGenius"
+  },
+ {
+    "channelName": "Amin Sani",
+    "description": "به اشتراک گذاشتن تجربیات مهاجرت به سوئد و سایر کشور های اروپایی و ولاگ هایی از سوئد",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCLXTPsfdA3fPUxj5SN1wlAA"
+  },
+  {
+    "channelName": "MeisamCa",
+    "description": "مهاجرت به کانادا - راه و روش خودآموزی زبان انگلیسی - ولاگ در کانادا",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UC8TMa4T3mz47P3t2gcHg1Bg"
+  },
+  {
+    "channelName": "Erfan Tahriri",
+    "description": "توضیح مرحله به مرحله مهاجرت کاری به سوئد",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UC_Vt6PmDBD422uXhb1NEQ8g"
+  },
+  {
+    "channelName": "Mohi Sanisel",
+    "description": "محی سنیسل بنیانگذار استارتاپ دونیت از مهاجرتش با کانادا و روزمرگی هاش میگه",
+    "website": "",
+    "channel": "https://www.youtube.com/user/TheMrMohi"
   }
 ]

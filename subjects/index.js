@@ -9,6 +9,7 @@ const sport = require('../subjects/sport.json');
 const technology_it = require('../subjects/technology-it.json');
 const arts = require('../subjects/arts.json');
 const other = require('../subjects/other.json');
+const education = require('../subjects/education.json');
 
 const SubjectsList = [
   ['تکنولوژی و حوزه آی‌تی', technology_it],
@@ -21,6 +22,7 @@ const SubjectsList = [
   ['مصاحبه و گفتگو محور', conversation_centric],
   ['تاریخ و ادبیات', history_literature],
   ['هنری', arts],
+  ['آموزشی', education],
   ['سایر موضوعات', other]
 ];
 
