@@ -1,5 +1,11 @@
 [
     {
+        "channelName": "Mosallas Group",
+        "description": "تیم مثلث متشکل از چند نوجوان برنامه نویس خلاقه که هر هفته پیرو موضاعی مانند فرانت اند و بک اند سایت و اندروید و ... ویدئوی آموزشی فارسی تولید میکنه",
+        "website": "",
+        "channel": "https://www.youtube.com/MosallasGroup"
+    },
+    {
         "channelName": "Jadi TV",
         "description": "کانالی در رابطه با مسائل مرتبط با حوزه تکنولوژی، برنامه‌نویسی و اخبار مرتبط با این حوزه و خیلی چیزای دیگه :)",
         "website": "http://jadi.net",
@@ -101,6 +107,7 @@
         "website": "https://iamv.ir/",
         "channel": "https://www.youtube.com/c/VahidNaeini/"
     },
+    {
         "channelName": "Seyed Naser Razavi",
         "description": "کانال استاد دانشگاه سید ناصر رضوی با موضوعات مختلفی مانند: طراحی الگوریتم - هوش مصنوعی - شبکه های عصبی مصنوعی - برنامه نویسی پایتون",
         "website": "",
@@ -123,11 +130,23 @@
         "description": "مباحث برنامه نویسی و آموزش برنامه نویسی",
         "website": "https://irlogcat.ir/",
         "channel": "https://www.youtube.com/c/irlogcat"
-    }
+    },
     {
         "channelName": "Technolotin",
         "description": " ما در تکنولوتین، قصد داریم ابزار و روش های آموزش برنامه نویسی و مفاهیم کامپیوتر رو به شما معرفی کنیم تا با استفاده از اونا بتونید به رشد فکری کودکان و نوجوانان خودتون کمک کنید.",
         "website": "https://technolotin.com",
         "channel": "https://www.youtube.com/technolotin"
+    },
+        {
+        "channelName": "Mohammad Ahmadi Akbari",
+        "description": "کانال آموزشی فناوری ؛ آموزش وردپرس و...",
+        "website": "https://mohammad9574.com/",
+        "channel": "https://www.youtube.com/c/mohammad9574"
+    }
+        {
+        "channelName": "KM Cast",
+        "description": "قراره تو این چنل آموزش های برنامه نویسی، کار با ابزار ها و برنامه ها، ادیت ویدیو، ادیت عکس و تکنیک هایی که ممکنه بهتون کمک کنه گذاشته بشه تا برید و حالشو ببرید",
+        "website": "https://www.KMCast.ir",
+        "channel": "https://www.youtube.com/channel/UCr5Fc_5RQtE1zkRW3VLsw2w/featured"
     }
 ]
