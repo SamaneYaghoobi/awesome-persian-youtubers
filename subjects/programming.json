@@ -1,164 +1,176 @@
 [
-    {
-        "channelName": "Mosallas Group",
-        "description": "تیم مثلث متشکل از چند نوجوان برنامه نویس خلاقه که هر هفته پیرو موضاعی مانند فرانت اند و بک اند سایت و اندروید و ... ویدئوی آموزشی فارسی تولید میکنه",
-        "website": "",
-        "channel": "https://www.youtube.com/MosallasGroup"
-    },
-    {
-        "channelName": "Jadi TV",
-        "description": "کانالی در رابطه با مسائل مرتبط با حوزه تکنولوژی، برنامه‌نویسی و اخبار مرتبط با این حوزه و خیلی چیزای دیگه :)",
-        "website": "http://jadi.net",
-        "channel": "https://www.youtube.com/channel/UCgKePkWtPuF36bJy0n2cEMQ"
-    },
-    {
-        "channelName": "SkillVid",
-        "description": "ویدیو مهارت هر هفته ویدیو هایی در حوزه وب , برنامه نویسی , ... منتشر میکنه",
-        "website": "https://skillvid.com",
-        "channel": "https://www.youtube.com/channel/UC9aYF7SavRo_A9psgpEmw0A"
-    },
-    {
-        "channelName": "SoftwareTalks",
-        "description": "دورهمی آنلاین جامعه نرم‌افزاری - پخش زنده سه‌شنبه هر هفته ساعت ۱۹ و جمعه‌ هر هفته ساعت ۱۰",
-        "website": "https://softwaretalks.ir",
-        "channel": "https://www.youtube.com/channel/UCm4xezzuIlcEBFQwkAzm0CQ"
-    },
-    {
-        "channelName": "amirhosseinab",
-        "description": "کانال امیرحسین عبدالخالق که هر هفته یک ویدئو جدید درباره مهندسی نرم‌افزار، برنامه‌نویسی و سافت‌اسکیل‌ها منتشر میکند",
-        "website": "https://amirhosseinab.me",
-        "channel": "https://www.youtube.com/amirhosseinab"
-    },
-    {
-        "channelName": "Alireza Ayinmehr",
-        "description": "دوره‌ی رایگان آموزش توسعه وب با فریم‌ورک فلسک به زبان فارسی",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCkuHzng-3im8CtounzRO-GQ"
-    },
-    {
-        "channelName": "Parsclick",
-        "description": "شبکه پارس کلیک به عنوان سینمای برنامه نویسان هر چند وقت یکبار ویدئوهای آموزش برنامه نویسی و نکات و ترفندهای مرتبط با این حوزه رو تولید میکنه.",
-        "website": "https://parsclick.net",
-        "channel": "https://www.youtube.com/user/PersianComputers"
-    },
-    {
-        "channelName": "Sahar TheTallWitch",
-        "description": "آموزش برنامه نویسی با محوریت پلتفرم اندروید",
-        "website": "https://t.me/TheTallWitch",
-        "channel": "https://www.youtube.com/user/saharpournasseh"
-    },
-    {
-        "channelName": "Negarjf",
-        "description": "ویدیو های آموزشی با محوریت برنامه‌نویسی سمت کاربر",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCbUgyn-Vzr1U12x4o_k2n2Q"
-    },
-    {
-        "channelName": "Amirahmad Adibi",
-        "description": "از سال 93 اموزش برنامه نویسی رو با اموزش برنامه نویسی اندروید شروع کردم . از اون موقع متوجه شدم که بچه ها خیلی اموزش هام رو دوست دارن و مثل اینکه اموزش هام خوبه . الان توی زرین پال محتوای اموزشی تولید میکنم و کلاس های خصوصی اموزش برنامه نویسی با بچه های خارج از شرکت دارم .",
-        "website": "https://www.instagram.com/amirahmadadibii/",
-        "channel": "https://www.youtube.com/channel/UCbUzynAcuG-JZYE7oI-B2NA"
-    },
-    {
-        "channelName": "Seyed Naser Razavi",
-        "description": "در این کانال مهارت‌های گوناگون مورد نیاز در حوزه هوش مصنوعی، یادگیری ماشین، شبکه‌های عصبی و یادگیری ژرف (یادگیری عمیق)، آموزش داده خواهد شد. از جمله مهم‌ترین این مهارت‌ها می‌توان به مهارت‌های برنامه‌نویسی در «پایتون»، آشنایی با مفاهیم مهم و الگوریتم‌های پرکاربرد یادگیری ماشین و یادگیری ژرف مانند شبکه‌های عصبی، شبکه‌های عصبی بازگشتی و شبکه‌های عصبی کانولوشن و به کارگیری این الگوریتم‌ها در عمل به منظور حل مسائل گوناگون دنیای واقعی اشاره نمود.",
-        "website": "https://twitter.com/naser_razavi",
-        "channel": "https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ"
-    },
-    {
-        "channelName": "Sajjad Heydari",
-        "description": "ویدئوهای متفرقه حوزه برنامه نویسی و بازی",
-        "website": "",
-        "channel": "https://www.youtube.com/user/Sajjjadheydari/"
-    },
-    {
-        "channelName": "Abbas Yazdanpanah",
-        "description": "در این کانال ویدئوهایی که توسط عباس یزدان پناه در حوزه برنامه نویسی که در سایت blog.abyz.ir پخش می‌شود به اشتراک گذاشته می‌شود.",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCriDa1A8msrOTmfIFNFOhzA"
-    },
-    {
-        "channelName": "Foad Shariat",
-        "description": "ویدئوهایی توسط فواد شریعت در مورد آموزش انگولار",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCjZGvgsiZa3MRGO4ZstUl9g"
-    },
-    {
-        "channelName": "Siavash Mahmoudian",
-        "description": "ویدئوهایی در مورد آموزش برنامه نیسی وب توسط سیاوش محمودیان",
-        "website": "",
-        "channel": "https://www.youtube.com/user/syavashcom"
-    },
-    {
-        "channelName": "Forud Ghafouri",
-        "description": "ویدئوهایی در مورد آموزش برنامه‌نویسی گو توسط فرود غفوری",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCdtGLDEOsnWlW1IsQFbCAsA"
-    },
-    {
-        "channelName": "Emili_Courses",
-        "description": "این کانال برای آموزش برنامه نویسی در دو جنبه ی مختلف از سطح مبتدی هست : جنبه ی اول برنامه نویسی بر پایه حل مسئله و جنبه ی دوم طراحی و برنامه نویسی وب سایت، شروع به کار :‌ اردیبهشت 1399",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCBHSltuZfo9Jjlsj4BZRWOQ"
-    },
-    {
-        "channelName": "Vahid Naeini",
-        "description": "وحید آموزش هایی با موضوع برنامه نویسی مخصوصا زبان پایتون قرار میده",
-        "website": "https://iamv.ir/",
-        "channel": "https://www.youtube.com/c/VahidNaeini/"
-    },
-    {
-        "channelName": "Seyed Naser Razavi",
-        "description": "کانال استاد دانشگاه سید ناصر رضوی با موضوعات مختلفی مانند: طراحی الگوریتم - هوش مصنوعی - شبکه های عصبی مصنوعی - برنامه نویسی پایتون",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ"
-    },
-    {
-        "channelName": "Vahid Naeini",
-        "description": "این کانال ویدیو هایی در موضوعاتی مانند برنامه نویسی پایتون و لینکوس دارد",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCc95fLUDogjmPlRwz2MZGNA"
-    },
-    {
-        "channelName": "Alireza Vaziri",
-        "description": "کانال با ویدیو هایی مربوط به امنیت سایبری",
-        "website": "",
-        "channel": "https://www.youtube.com/channel/UCyJk8s2JnmfMmBOQXg7ap5A"
-    },
-        {
-        "channelName": "irlogcat",
-        "description": "مباحث برنامه نویسی و آموزش برنامه نویسی",
-        "website": "https://irlogcat.ir/",
-        "channel": "https://www.youtube.com/c/irlogcat"
-    },
-    {
-        "channelName": "Technolotin",
-        "description": " ما در تکنولوتین، قصد داریم ابزار و روش های آموزش برنامه نویسی و مفاهیم کامپیوتر رو به شما معرفی کنیم تا با استفاده از اونا بتونید به رشد فکری کودکان و نوجوانان خودتون کمک کنید.",
-        "website": "https://technolotin.com",
-        "channel": "https://www.youtube.com/technolotin"
-    },
-        {
-        "channelName": "Mohammad Ahmadi Akbari",
-        "description": "کانال آموزشی فناوری ؛ آموزش وردپرس و...",
-        "website": "https://mohammad9574.com/",
-        "channel": "https://www.youtube.com/c/mohammad9574"
-    },
-    {
-        "channelName": "MrMMG",
-        "description": "هر هفته یک ویدیو درباره مهندسی نرم افزار و طراحی وب",
-        "website": "https://mrmmg.ir",
-        "channel": "https://www.youtube.com/channel/UCxAH-5mkZJ3DDsGgdUadITw"
-    },
-    {
-        "channelName": "AliKarbasi",
-        "description": "آموزش برنامه نویسی اندروید و طراحی وب",
-        "website": "https://alikarbasi.ir",
-        "channel": "https://www.youtube.com/alikarbasi"
-    }
-        {
-        "channelName": "KM Cast",
-        "description": "قراره تو این چنل آموزش های برنامه نویسی، کار با ابزار ها و برنامه ها، ادیت ویدیو، ادیت عکس و تکنیک هایی که ممکنه بهتون کمک کنه گذاشته بشه تا برید و حالشو ببرید",
-        "website": "https://www.KMCast.ir",
-        "channel": "https://www.youtube.com/channel/UCr5Fc_5RQtE1zkRW3VLsw2w/featured"
-    }
+  {
+    "channelName": "Mosallas Group",
+    "description": "تیم مثلث متشکل از چند نوجوان برنامه نویس خلاقه که هر هفته پیرو موضاعی مانند فرانت اند و بک اند سایت و اندروید و ... ویدئوی آموزشی فارسی تولید میکنه",
+    "website": "",
+    "channel": "https://www.youtube.com/MosallasGroup"
+  },
+  {
+    "channelName": "Ashkan Rahmani",
+    "description": "ماجراجویی‌های یک برنامه‌نویس که دوست داره به کسایی که میخوان تازه وارد دنیای برنامه‌نویسی بشن کمک کنه.",
+    "website": "https://ashkaan.ir",
+    "channel": "https://www.youtube.com/HappyDeveloper"
+  },
+  {
+    "channelName": "Jadi TV",
+    "description": "کانالی در رابطه با مسائل مرتبط با حوزه تکنولوژی، برنامه‌نویسی و اخبار مرتبط با این حوزه و خیلی چیزای دیگه :)",
+    "website": "http://jadi.net",
+    "channel": "https://www.youtube.com/channel/UCgKePkWtPuF36bJy0n2cEMQ"
+  },
+  {
+    "channelName": "SkillVid",
+    "description": "ویدیو مهارت هر هفته ویدیو هایی در حوزه وب , برنامه نویسی , ... منتشر میکنه",
+    "website": "https://skillvid.com",
+    "channel": "https://www.youtube.com/channel/UC9aYF7SavRo_A9psgpEmw0A"
+  },
+  {
+    "channelName": "SoftwareTalks",
+    "description": "دورهمی آنلاین جامعه نرم‌افزاری - پخش زنده سه‌شنبه هر هفته ساعت ۱۹ و جمعه‌ هر هفته ساعت ۱۰",
+    "website": "https://softwaretalks.ir",
+    "channel": "https://www.youtube.com/channel/UCm4xezzuIlcEBFQwkAzm0CQ"
+  },
+  {
+    "channelName": "amirhosseinab",
+    "description": "کانال امیرحسین عبدالخالق که هر هفته یک ویدئو جدید درباره مهندسی نرم‌افزار، برنامه‌نویسی و سافت‌اسکیل‌ها منتشر میکند",
+    "website": "https://amirhosseinab.me",
+    "channel": "https://www.youtube.com/amirhosseinab"
+  },
+  {
+    "channelName": "Alireza Ayinmehr",
+    "description": "دوره‌ی رایگان آموزش توسعه وب با فریم‌ورک فلسک به زبان فارسی",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCkuHzng-3im8CtounzRO-GQ"
+  },
+  {
+    "channelName": "Parsclick",
+    "description": "شبکه پارس کلیک به عنوان سینمای برنامه نویسان هر چند وقت یکبار ویدئوهای آموزش برنامه نویسی و نکات و ترفندهای مرتبط با این حوزه رو تولید میکنه.",
+    "website": "https://parsclick.net",
+    "channel": "https://www.youtube.com/user/PersianComputers"
+  },
+  {
+    "channelName": "Ohmytalks",
+    "description": "ویدیوهای لایو درباره موضوعات مختلف حوزه مهندسی نرم‌افزار توسط سروش سرابادانی",
+    "website": "https://ohmytalks.com/",
+    "channel": "https://www.youtube.com/c/ohmytalks/"
+  },
+  {
+    "channelName": "Sahar TheTallWitch",
+    "description": "آموزش برنامه نویسی با محوریت پلتفرم اندروید",
+    "website": "https://t.me/TheTallWitch",
+    "channel": "https://www.youtube.com/user/saharpournasseh"
+  },
+  {
+    "channelName": "Negarjf",
+    "description": "ویدیو های آموزشی با محوریت برنامه‌نویسی سمت کاربر",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCbUgyn-Vzr1U12x4o_k2n2Q"
+  },
+  {
+    "channelName": "Amirahmad Adibi",
+    "description": "از سال 93 اموزش برنامه نویسی رو با اموزش برنامه نویسی اندروید شروع کردم . از اون موقع متوجه شدم که بچه ها خیلی اموزش هام رو دوست دارن و مثل اینکه اموزش هام خوبه . الان توی زرین پال محتوای اموزشی تولید میکنم و کلاس های خصوصی اموزش برنامه نویسی با بچه های خارج از شرکت دارم .",
+    "website": "https://www.instagram.com/amirahmadadibii/",
+    "channel": "https://www.youtube.com/channel/UCbUzynAcuG-JZYE7oI-B2NA"
+  },
+  {
+    "channelName": "Seyed Naser Razavi",
+    "description": "در این کانال مهارت‌های گوناگون مورد نیاز در حوزه هوش مصنوعی، یادگیری ماشین، شبکه‌های عصبی و یادگیری ژرف (یادگیری عمیق)، آموزش داده خواهد شد. از جمله مهم‌ترین این مهارت‌ها می‌توان به مهارت‌های برنامه‌نویسی در «پایتون»، آشنایی با مفاهیم مهم و الگوریتم‌های پرکاربرد یادگیری ماشین و یادگیری ژرف مانند شبکه‌های عصبی، شبکه‌های عصبی بازگشتی و شبکه‌های عصبی کانولوشن و به کارگیری این الگوریتم‌ها در عمل به منظور حل مسائل گوناگون دنیای واقعی اشاره نمود.",
+    "website": "https://twitter.com/naser_razavi",
+    "channel": "https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ"
+  },
+  {
+    "channelName": "Sajjad Heydari",
+    "description": "ویدئوهای متفرقه حوزه برنامه نویسی و بازی",
+    "website": "",
+    "channel": "https://www.youtube.com/user/Sajjjadheydari/"
+  },
+  {
+    "channelName": "Voorivex",
+    "description": "اینجا یاشار شاهین‌زاده ویدیوهای آموزشی درباره هک و امنیت میذاره",
+    "website": "https://memoryleaks.ir/",
+    "channel": "https://www.youtube.com/c/Voorivex"
+  },
+  {
+    "channelName": "Abbas Yazdanpanah",
+    "description": "در این کانال ویدئوهایی که توسط عباس یزدان پناه در حوزه برنامه نویسی که در سایت blog.abyz.ir پخش می‌شود به اشتراک گذاشته می‌شود.",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCriDa1A8msrOTmfIFNFOhzA"
+  },
+  {
+    "channelName": "Foad Shariat",
+    "description": "ویدئوهایی توسط فواد شریعت در مورد آموزش انگولار",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCjZGvgsiZa3MRGO4ZstUl9g"
+  },
+  {
+    "channelName": "Siavash Mahmoudian",
+    "description": "ویدئوهایی در مورد آموزش برنامه نیسی وب توسط سیاوش محمودیان",
+    "website": "",
+    "channel": "https://www.youtube.com/user/syavashcom"
+  },
+  {
+    "channelName": "Forud Ghafouri",
+    "description": "ویدئوهایی در مورد آموزش برنامه‌نویسی گو توسط فرود غفوری",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCdtGLDEOsnWlW1IsQFbCAsA"
+  },
+  {
+    "channelName": "Emili_Courses",
+    "description": "این کانال برای آموزش برنامه نویسی در دو جنبه ی مختلف از سطح مبتدی هست : جنبه ی اول برنامه نویسی بر پایه حل مسئله و جنبه ی دوم طراحی و برنامه نویسی وب سایت، شروع به کار :‌ اردیبهشت 1399",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCBHSltuZfo9Jjlsj4BZRWOQ"
+  },
+  {
+    "channelName": "Vahid Naeini",
+    "description": "وحید آموزش هایی با موضوع برنامه نویسی مخصوصا زبان پایتون قرار میده",
+    "website": "https://iamv.ir/",
+    "channel": "https://www.youtube.com/c/VahidNaeini/"
+  },
+  {
+    "channelName": "Seyed Naser Razavi",
+    "description": "کانال استاد دانشگاه سید ناصر رضوی با موضوعات مختلفی مانند: طراحی الگوریتم - هوش مصنوعی - شبکه های عصبی مصنوعی - برنامه نویسی پایتون",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCNJavFPJ16jeMP3zeviAJbQ"
+  },
+  {
+    "channelName": "Alireza Vaziri",
+    "description": "کانال با ویدیو هایی مربوط به امنیت سایبری",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCyJk8s2JnmfMmBOQXg7ap5A"
+  },
+  {
+    "channelName": "irlogcat",
+    "description": "مباحث برنامه نویسی و آموزش برنامه نویسی",
+    "website": "https://irlogcat.ir/",
+    "channel": "https://www.youtube.com/c/irlogcat"
+  },
+  {
+    "channelName": "Technolotin",
+    "description": " ما در تکنولوتین، قصد داریم ابزار و روش های آموزش برنامه نویسی و مفاهیم کامپیوتر رو به شما معرفی کنیم تا با استفاده از اونا بتونید به رشد فکری کودکان و نوجوانان خودتون کمک کنید.",
+    "website": "https://technolotin.com",
+    "channel": "https://www.youtube.com/technolotin"
+  },
+  {
+    "channelName": "Mohammad Ahmadi Akbari",
+    "description": "کانال آموزشی فناوری ؛ آموزش وردپرس و...",
+    "website": "https://mohammad9574.com/",
+    "channel": "https://www.youtube.com/c/mohammad9574"
+  },
+  {
+    "channelName": "MrMMG",
+    "description": "هر هفته یک ویدیو درباره مهندسی نرم افزار و طراحی وب",
+    "website": "https://mrmmg.ir",
+    "channel": "https://www.youtube.com/channel/UCxAH-5mkZJ3DDsGgdUadITw"
+  },
+  {
+    "channelName": "AliKarbasi",
+    "description": "آموزش برنامه نویسی اندروید و طراحی وب",
+    "website": "https://alikarbasi.ir",
+    "channel": "https://www.youtube.com/alikarbasi"
+  },
+  {
+    "channelName": "KM Cast",
+    "description": "قراره تو این چنل آموزش های برنامه نویسی، کار با ابزار ها و برنامه ها، ادیت ویدیو، ادیت عکس و تکنیک هایی که ممکنه بهتون کمک کنه گذاشته بشه تا برید و حالشو ببرید",
+    "website": "https://www.KMCast.ir",
+    "channel": "https://www.youtube.com/channel/UCr5Fc_5RQtE1zkRW3VLsw2w/featured"
+  }
 ]

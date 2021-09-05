@@ -17,7 +17,7 @@
     "website": "",
     "channel": "https://www.youtube.com/channel/UCYSzk311lW2qotWSv_Jtdng"
   },
-   {
+  {
     "channelName": "SampoyTech فارسی",
     "description": "توی این کانال دستگاه‌های خانه هوشمند و گجت‌های مختلف تکنولوژی را معرفی و بررسی می‌کنم",
     "website": "",
@@ -27,7 +27,13 @@
     "channelName": "Tutorial channel",
     "description": "ویدیوهایی در حوزه کامپیوتر، بررسی توزیع های لینوکس، و اخبار دنیای اوپن سورس",
     "website": "",
-    "channel": "youtube.com/channel/UChOR99ss9_-BSVtIzjQh99g"
+    "channel": "https://youtube.com/channel/UChOR99ss9_-BSVtIzjQh99g"
+  },
+  {
+    "channelName": "Arian Abrouni",
+    "description": "ویدیوهای مختلفی درباره آنباکس و معرفی لپ‌تاپ و ترفندهای حوزه کامپیوتر و دنیای تکنولوژی",
+    "website": "",
+    "channel": "https://youtube.com/c/ArianAbrouni"
   },
   {
     "channelName": "MoboNews",
@@ -60,13 +66,7 @@
     "channel": "https://www.youtube.com/channel/UCyJk8s2JnmfMmBOQXg7ap5A"
   },
   {
-    "channelName": "Vahid Naeini",
-    "description": "کلی ویدیو های جالب با موضوعات نو. برنامه نویسی , دیزاین , شطرنج . کلی چیز دیگه.",
-    "website": "",
-    "channel": "https://www.youtube.com/c/VahidNaeini"
-  },
-  {
-    "channelName": "ahoora niazi",
+    "channelName": "Ahoora Niazi",
     "description": "اهورا نیازی فعال حوزه تکنولوژی که ویدیو های درمورد همین موضوع می سازه",
     "website": "",
     "channel": "https://www.youtube.com/c/ahooraniazi/"

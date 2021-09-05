@@ -1,4 +1,5 @@
-[{
+[
+  {
     "channelName": "Pelak Media",
     "description": "پلاک مدیا یک ولاگ است. ولاگ چیست؟ همان ویدیو بلاگ است که به صورت روزمره رکورد و ادیت می‌شود. ما در پلاک مدیا به سراغ مکان‌ها و چالش‌های مختلف رفته و از آنها ویدیو تهیه می‌کنیم و با شما به اشتراک می‌گذاریم.",
     "website": "",
@@ -21,6 +22,12 @@
     "description": "تو اين كانال قصد دارم تا  مطالب آموزنده، مفرح و جالب در چهارچوب واقعيت و اخلاق توليد كنم تا لحظات خوبى رو در كنار هم سپري كنيم",
     "website": "",
     "channel": "https://www.youtube.com/channel/UCNm_UxUfhpTRCo-jmnVTb2A"
+  },
+  {
+    "channelName": "Farzad Bayan",
+    "description": "فرزاد اینجا از دغدغه‌های خودش تو حوزه‌های مختلف حرف میزنه و اونارو بررسی میکنه و البته ویدیوهای آموزشی",
+    "website": "",
+    "channel": "https://www.youtube.com/c/FarzadBayan"
   },
   {
     "channelName": "Sasha Shbz",
@@ -76,7 +83,7 @@
     "website": "",
     "channel": "https://www.youtube.com/c/FariborzBMWGenius"
   },
- {
+  {
     "channelName": "Amin Sani",
     "description": "به اشتراک گذاشتن تجربیات مهاجرت به سوئد و سایر کشور های اروپایی و ولاگ هایی از سوئد",
     "website": "",

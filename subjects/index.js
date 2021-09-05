@@ -13,7 +13,7 @@ const education = require('../subjects/education.json');
 
 const SubjectsList = [
   ['تکنولوژی و حوزه آی‌تی', technology_it],
-  ['برنامه‌نویسی', programming],
+  ['برنامه‌نویسی و نرم‌افزار', programming],
   ['استریم بازی و حوزه گیمرها', game_stream],
   ['شخصی، خاطرات روزانه و ولاگ', personal_diary_vlog],
   ['مطالب فان و سرگرمی', funny_comics],
