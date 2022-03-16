@@ -172,5 +172,11 @@
     "description": "قراره تو این چنل آموزش های برنامه نویسی، کار با ابزار ها و برنامه ها، ادیت ویدیو، ادیت عکس و تکنیک هایی که ممکنه بهتون کمک کنه گذاشته بشه تا برید و حالشو ببرید",
     "website": "https://www.KMCast.ir",
     "channel": "https://www.youtube.com/channel/UCr5Fc_5RQtE1zkRW3VLsw2w/featured"
+  },
+  {
+    "channelName": "Morita DataLand",
+    "description": "در این کانال محتوای آموزشی درباره علم داده و پایتون منتشر می شود",
+    "website": "",
+    "channel": "https://www.youtube.com/c/MoritaDataLand/featured"
   }
 ]
