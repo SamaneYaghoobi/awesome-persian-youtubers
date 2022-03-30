@@ -10,9 +10,11 @@ const technology_it = require('../subjects/technology-it.json');
 const arts = require('../subjects/arts.json');
 const other = require('../subjects/other.json');
 const education = require('../subjects/education.json');
+const science_technology = require('../subjects/Science-technology.json')
 
 const SubjectsList = [
   ['تکنولوژی و حوزه آی‌تی', technology_it],
+  ['علم و تکنولوژی', science_technology],
   ['برنامه‌نویسی و نرم‌افزار', programming],
   ['استریم بازی و حوزه گیمرها', game_stream],
   ['شخصی، خاطرات روزانه و ولاگ', personal_diary_vlog],
