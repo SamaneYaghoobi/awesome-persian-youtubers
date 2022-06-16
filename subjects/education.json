@@ -12,10 +12,33 @@
     "channel": "https://www.youtube.com/channel/UCUmwCz1h-GTcrEX2kF8XBLw"
   },
   {
+    "channelName": "Bplus Podcast",
+    "description": "ویدیوهای کوتاهی از علی بندری درباره پادکست بی پلاس و مطالب مکمل با این پادکست",
+    "website": "",
+    "channel": "https://www.youtube.com/c/BplusPodcast"
+  },
+  {
+    "channelName": "RozanakEdu",
+    "description": "در روزنک با ویدیوهایی کوتاه و به زبانی ساده (اما نه بیش از حد ساده) به ترویج علوم انسانی و اجتماعی می‌پردازیم.",
+    "website": "",
+    "channel": "https://www.youtube.com/c/RozanakEdu"
+  },
+  {
     "channelName": "Abolfazl Khadem",
     "description": "همه چیز درباره آزمون ایلتس",
     "website": "",
     "channel": "https://www.youtube.com/channel/UCz5rd9KctnDjWl7yQcAfsng"
+  },
+  {
+    "channelName": "Fara Zaban",
+    "description": "آموزش زبان انگلیسی به زبان فارسی در کافه زبان توسط میسا",
+    "website": "",
+    "channel": "https://www.youtube.com/channel/UCHy89KmzEPyTQMHjIf6gZFw"
+  },
+  {
+    "channelName": "Paria Akhavass",
+    "description": "آموزش زبان انگلیسی به زبان فارسی توسط پریا اخواص",
+    "website": "http://akhavass.org/",
+    "channel": "https://www.youtube.com/channel/UCUmwCz1h-GTcrEX2kF8XBLw"
   }
 ]
-
