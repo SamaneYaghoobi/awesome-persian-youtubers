@@ -113,7 +113,7 @@
     "website": "https://secshot.ir/",
     "channel": "https://www.youtube.com/channel/UC_FRhwnFOHBPCA2Uz05svIQ"
   },
-    {
+  {
     "channelName": "Vigiato",
     "description": "بزرگترین رسانه‌ی ویدئوگیم فارسی",
     "website": "https://vigiato.net/",
@@ -130,7 +130,5 @@
     "description": "ویدئوهای ماینکرفتی",
     "website": "",
     "channel": "https://www.youtube.com/@AminFreeman"
-  },
-
-  
+  }
 ]
